@@ -26,7 +26,7 @@
       <file leaf-file-name="beckett_parser_tests.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tutorial/spiders/beckett_parser_tests.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="0" selection-start="390" selection-end="390" vertical-scroll-proportion="0.43776825" vertical-offset="51" max-vertical-offset="765">
+            <state line="31" column="0" selection-start="1358" selection-end="1358" vertical-scroll-proportion="0.69313306" vertical-offset="204" max-vertical-offset="884">
               <folding>
                 <element signature="e#1#14#0" expanded="true" />
               </folding>
@@ -55,7 +55,7 @@
       <file leaf-file-name="items.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tutorial/items.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="18" selection-start="431" selection-end="431" vertical-scroll-proportion="0.0" vertical-offset="112" max-vertical-offset="578">
+            <state line="15" column="4" selection-start="361" selection-end="377" vertical-scroll-proportion="0.0" vertical-offset="61" max-vertical-offset="578">
               <folding />
             </state>
           </provider>
@@ -235,7 +235,7 @@
       <recent name="H:\Code\beckett\beckettscraper\spiders" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in TestSequenceFunctions (1)">
+  <component name="RunManager" selected="Python tests.Unittest TestSequenceFunctions.test_shuffle (2)">
     <configuration default="false" name="Unittest TestSequenceFunctions.test_shuffle (1)" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -486,9 +486,9 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in TestSequenceFunctions (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in TestSequenceFunctions" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittest TestSequenceFunctions.test_shuffle (2)" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittest TestSequenceFunctions.test_shuffle (2)" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in TestSequenceFunctions (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in TestSequenceFunctions" />
         <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest TestSequenceFunctions.test_choice" />
         <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest TestSequenceFunctions.test_shuffle (1)" />
       </list>
@@ -586,13 +586,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tutorial/items.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="18" selection-start="431" selection-end="431" vertical-scroll-proportion="0.0" vertical-offset="112" max-vertical-offset="578">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scrapy.cfg">
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="0" selection-start="257" selection-end="257" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
@@ -618,9 +611,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="4" selection-start="361" selection-end="377" vertical-scroll-proportion="0.0" vertical-offset="61" max-vertical-offset="578">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/tutorial/spiders/beckett_parser_tests.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="390" selection-end="390" vertical-scroll-proportion="0.43776825" vertical-offset="51" max-vertical-offset="765">
+        <state line="31" column="0" selection-start="1358" selection-end="1358" vertical-scroll-proportion="0.69313306" vertical-offset="204" max-vertical-offset="884">
           <folding>
             <element signature="e#1#14#0" expanded="true" />
           </folding>

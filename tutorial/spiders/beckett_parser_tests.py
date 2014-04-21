@@ -14,8 +14,15 @@ class TestSequenceFunctions(unittest.TestCase):
     def setUp(self):
         self.seq = range(10)
 
-    def test_Parser(self):
+    def test_parser_printing_plates(self):
         item = parseBeckettTableRow("1997-98 Stadium Club Printing Plates #204 David Wesley TRAN Black", logging)
+
+        self.assertEqual("1997-98", item['year'], "The year is not as expected")
+        self.assertEqual("Stadium Club Printing Plates", item['setName'], "The set name is not as expected")
+        self.assertEqual("#204", item['cardNumber'], "The card number is not as expected")
+        self.assertEqual(1, len(item['playerNames']), "more than 1 player found")
+        self.assertEqual("David Wesley Black", item['playerNames'][0], "the player name list is not as expected")#the first and only player on the list
+        #self.assertIsNone(item['errorInformation'], "There should be no error information")
 
     def test_shuffle(self):
         # make sure the shuffled sequence does not lose any elements
