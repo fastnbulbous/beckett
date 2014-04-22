@@ -22,7 +22,11 @@ class TestSequenceFunctions(unittest.TestCase):
         self.assertEqual("#204", item['cardNumber'], "The card number is not as expected")
         self.assertEqual(1, len(item['playerNames']), "more than 1 player found")
         self.assertEqual("David Wesley Black", item['playerNames'][0], "the player name list is not as expected")#the first and only player on the list
-        #self.assertIsNone(item['errorInformation'], "There should be no error information")
+
+        try:
+            item['errorInformation']
+            self.assertTrue(False, "There should not be any error information")
+        except: KeyError
 
     def test_shuffle(self):
         # make sure the shuffled sequence does not lose any elements

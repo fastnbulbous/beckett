@@ -26,7 +26,7 @@
       <file leaf-file-name="beckett_parser_tests.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tutorial/spiders/beckett_parser_tests.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="0" selection-start="1358" selection-end="1358" vertical-scroll-proportion="0.69313306" vertical-offset="204" max-vertical-offset="884">
+            <state line="24" column="0" selection-start="1064" selection-end="1064" vertical-scroll-proportion="0.4892704" vertical-offset="180" max-vertical-offset="952">
               <folding>
                 <element signature="e#1#14#0" expanded="true" />
               </folding>
@@ -37,7 +37,7 @@
       <file leaf-file-name="settings.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tutorial/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="0" selection-start="255" selection-end="255" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
+            <state line="9" column="0" selection-start="255" selection-end="255" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="357">
               <folding />
             </state>
           </provider>
@@ -55,7 +55,7 @@
       <file leaf-file-name="items.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tutorial/items.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="4" selection-start="361" selection-end="377" vertical-scroll-proportion="0.0" vertical-offset="61" max-vertical-offset="578">
+            <state line="23" column="19" selection-start="553" selection-end="553" vertical-scroll-proportion="0.0" vertical-offset="10" max-vertical-offset="578">
               <folding />
             </state>
           </provider>
@@ -82,10 +82,8 @@
       <file leaf-file-name="beckett_spider.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tutorial/spiders/beckett_spider.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="0" selection-start="250" selection-end="313" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1190">
-              <folding>
-                <element signature="e#20#29#0" expanded="true" />
-              </folding>
+            <state line="36" column="64" selection-start="1104" selection-end="1104" vertical-scroll-proportion="0.0" vertical-offset="384" max-vertical-offset="1054">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -111,10 +109,8 @@
       <file leaf-file-name="beckett_parser.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tutorial/spiders/beckett_parser.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="9" selection-start="217" selection-end="217" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="2278">
-              <folding>
-                <element signature="e#54#153#0" expanded="true" />
-              </folding>
+            <state line="48" column="50" selection-start="1857" selection-end="1857" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2227">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -235,31 +231,7 @@
       <recent name="H:\Code\beckett\beckettscraper\spiders" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Unittest TestSequenceFunctions.test_shuffle (2)">
-    <configuration default="false" name="Unittest TestSequenceFunctions.test_shuffle (1)" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/beckettscraper/spiders" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="beckett" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/beckettscraper/spiders/beckett_parser_tests.py" />
-      <option name="CLASS_NAME" value="TestSequenceFunctions" />
-      <option name="METHOD_NAME" value="test_shuffle" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_METHOD" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python tests.Unittest TestSequenceFunctions.test_parser_printing_plates">
     <configuration default="false" name="Unittest TestSequenceFunctions.test_choice" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -347,6 +319,30 @@
       <option name="METHOD_NAME" value="" />
       <option name="FOLDER_NAME" value="" />
       <option name="TEST_TYPE" value="TEST_CLASS" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittest TestSequenceFunctions.test_parser_printing_plates" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tutorial/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="beckett" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tutorial/spiders/beckett_parser_tests.py" />
+      <option name="CLASS_NAME" value="TestSequenceFunctions" />
+      <option name="METHOD_NAME" value="test_parser_printing_plates" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_METHOD" />
       <option name="PATTERN" value="" />
       <option name="USE_PATTERN" value="false" />
       <option name="PUREUNITTEST" value="true" />
@@ -478,19 +474,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittest TestSequenceFunctions.test_shuffle (1)" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittest TestSequenceFunctions.test_choice" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittest TestSequenceFunctions.test_shuffle (2)" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in TestSequenceFunctions (1)" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in TestSequenceFunctions" />
+      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittest TestSequenceFunctions.test_choice" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittest TestSequenceFunctions.test_shuffle (2)" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in TestSequenceFunctions (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in TestSequenceFunctions" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest TestSequenceFunctions.test_parser_printing_plates" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittest TestSequenceFunctions.test_shuffle (2)" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittest TestSequenceFunctions.test_parser_printing_plates" />
         <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in TestSequenceFunctions (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in TestSequenceFunctions" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest TestSequenceFunctions.test_choice" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest TestSequenceFunctions.test_shuffle (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittest TestSequenceFunctions.test_shuffle (2)" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in TestSequenceFunctions" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest TestSequenceFunctions.test_choice" />
       </list>
     </recent_temporary>
   </component>
@@ -515,15 +511,15 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3992674" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3992674" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -551,16 +547,53 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/tutorial/spiders/__init__.py">
+    <entry file="file://$PROJECT_DIR$/tutorial/spiders/beckett_parser_tests.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="466">
+        <state line="19" column="80" selection-start="629" selection-end="629" vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="884">
+          <folding>
+            <element signature="e#1#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="255" selection-end="255" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="4" selection-start="361" selection-end="377" vertical-scroll-proportion="0.0" vertical-offset="61" max-vertical-offset="578">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy.cfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="257" selection-end="257" vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="289">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tutorial/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="466">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial/spiders/beckett_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="250" selection-end="313" vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="1190">
           <folding />
         </state>
       </provider>
@@ -568,6 +601,27 @@
     <entry file="file://$PROJECT_DIR$/tutorial/spiders/utilities.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="476">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial/spiders/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="170">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial/spiders/beckett_parser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="9" selection-start="217" selection-end="217" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="2278">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial/spiders/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="466">
           <folding />
         </state>
       </provider>
@@ -593,34 +647,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tutorial/spiders/beckett_parser.py">
+    <entry file="file://$PROJECT_DIR$/tutorial/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="9" selection-start="217" selection-end="217" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2278">
-          <folding>
-            <element signature="e#54#153#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tutorial/spiders/beckett_spider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="250" selection-end="313" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1190">
-          <folding>
-            <element signature="e#20#29#0" expanded="true" />
-          </folding>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="466">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tutorial/items.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="4" selection-start="361" selection-end="377" vertical-scroll-proportion="0.0" vertical-offset="61" max-vertical-offset="578">
+        <state line="23" column="19" selection-start="553" selection-end="553" vertical-scroll-proportion="0.0" vertical-offset="10" max-vertical-offset="578">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial/spiders/beckett_parser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="50" selection-start="1857" selection-end="1857" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2227">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial/spiders/utilities.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="476">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial/spiders/beckett_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="64" selection-start="1104" selection-end="1104" vertical-scroll-proportion="0.0" vertical-offset="384" max-vertical-offset="1054">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tutorial/spiders/beckett_parser_tests.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="0" selection-start="1358" selection-end="1358" vertical-scroll-proportion="0.69313306" vertical-offset="204" max-vertical-offset="884">
+        <state line="24" column="0" selection-start="1064" selection-end="1064" vertical-scroll-proportion="0.4892704" vertical-offset="180" max-vertical-offset="952">
           <folding>
             <element signature="e#1#14#0" expanded="true" />
           </folding>
