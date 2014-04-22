@@ -11,17 +11,22 @@ from tutorial.items import BeckettItem
 
 class TestSequenceFunctions(unittest.TestCase):
 
-    def setUp(self):
-        self.seq = range(10)
+    def assertExpectedValues(self, description, year, setName, cardNumber, playerNames):
+        item = parseBeckettTableRow(description, logging)
+
+        self.assertEqual(year, item['year'], "The year is not as expected")
+        self.assertEqual(setName, item['setName'], "The set name is not as expected")
+        self.assertEqual(cardNumber, item['cardNumber'], "The card number is not as expected")
+        self.assertEqual(len(playerNames), len(item['playerNames']), "The number of players found is not equal.\nExpected Length: ")
+
+        for i in range(0, len(playerNames)):
+            self.assertEqual(playerNames[i], item['playerNames'][i], "The name as position: " + str(i) + " does not match. Expected: " + playerNames[i] + " Actual: " + item['playerNames'][i])
+
 
     def test_parser_printing_plates(self):
-        item = parseBeckettTableRow("1997-98 Stadium Club Printing Plates #204 David Wesley TRAN Black", logging)
+        expectedPlayerNames = ["David Wesley Black"]
 
-        self.assertEqual("1997-98", item['year'], "The year is not as expected")
-        self.assertEqual("Stadium Club Printing Plates", item['setName'], "The set name is not as expected")
-        self.assertEqual("#204", item['cardNumber'], "The card number is not as expected")
-        self.assertEqual(1, len(item['playerNames']), "more than 1 player found, list:" + ''.join(item['playerNames']).strip())
-        self.assertEqual("David Wesley Black", item['playerNames'][0], "the player name list is not as expected")#the first and only player on the list
+        self.assertExpectedValues("1997-98 Stadium Club Printing Plates #204 David Wesley TRAN Black", "1997-98", "Stadium Club Printing Plates", "#204", expectedPlayerNames)
 
         try:
             item['errorInformation']
@@ -29,37 +34,14 @@ class TestSequenceFunctions(unittest.TestCase):
         except: KeyError
 
     def test_parser_removes_unwanted_abbreviations(self):
-        item = parseBeckettTableRow("2003-04 Exquisite Collection #78 LeBron James JSY AU RC", logging)
+        expectedPlayerNames = ["LeBron James"]
 
-        self.assertEqual("2003-04", item['year'], "The year is not as expected")
-        self.assertEqual("Exquisite Collection", item['setName'], "The set name is not as expected")
-        self.assertEqual("#78", item['cardNumber'], "The card number is not as expected")
-        self.assertEqual(1, len(item['playerNames']), "more than 1 player found, list:" + ''.join(item['playerNames']).strip())
-        self.assertEqual("LeBron James", item['playerNames'][0], "the player name list is not as expected")#the first and only player on the list
+        self.assertExpectedValues("2003-04 Exquisite Collection #78 LeBron James JSY AU RC", "2003-04", "Exquisite Collection", "#78", expectedPlayerNames)
 
         try:
             item['errorInformation']
             self.assertTrue(False, "There should not be any error information")
         except: KeyError
-
-    def test_shuffle(self):
-        # make sure the shuffled sequence does not lose any elements
-        random.shuffle(self.seq)
-        self.seq.sort()
-        self.assertEqual(self.seq, range(10))
-
-        # should raise an exception for an immutable sequence
-        self.assertRaises(TypeError, random.shuffle, (1,2,3))
-
-    def test_choice(self):
-        element = random.choice(self.seq)
-        self.assertTrue(element in self.seq)
-
-    def test_sample(self):
-        with self.assertRaises(ValueError):
-            random.sample(self.seq, 20)
-        for element in random.sample(self.seq, 5):
-            self.assertTrue(element in self.seq)
 
 suite = unittest.TestLoader().loadTestsFromTestCase(TestSequenceFunctions)
 unittest.TextTestRunner(verbosity=2).run(suite)

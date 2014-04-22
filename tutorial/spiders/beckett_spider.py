@@ -56,16 +56,6 @@ class BeckettSpider(Spider):
             testRookieCard  = tableRow.xpath('./td/div[@class="attr rc"]/text()').extract()
             testSerialNumber = tableRow.xpath('./td/div[@class="attr sn"]/text()').extract()
 
-            print("Tetsing divs for:" + originalItemDescription)
-
-            print testAuto
-            print "Test auto length " + str(len(testAuto))
-            print testMemorabilia
-            print "Test mem " + str(len(testMemorabilia))
-            print testRookieCard
-            print testSerialNumber
-
-
             if len(testAuto) > 0:
                 logging.info("Is an Auto")
                 item['autograph'] = len(testAuto)
@@ -75,7 +65,10 @@ class BeckettSpider(Spider):
             if len(testRookieCard)> 0:
                 logging.info("Is a RC")
                 item['rookieCard'] = len(testRookieCard)
-
+            if len(testSerialNumber)> 0:
+                logging.info("Is a serial numbered card")
+            else:
+                logging.warn("Didn't find a serial tag on this")
 
             """Getting the serial number which is in a separate column and is listed as a number on becket"""
 
