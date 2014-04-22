@@ -94,6 +94,14 @@ class BeckettParserTests(unittest.TestCase):
         self.assertErrorInformation(item, "/spelled Arvadas")
 
 
+    def test_parser_nfl_shortened_names(self):
+        expectedPlayerNames = ["S.Young", "J.Rice"]
+
+        item = self.assertExpectedValues("1999 Playoff Contenders SSD Touchdown Tandems Die Cuts #T22 S.Young/J.Rice/51", "1999", "Playoff Contenders SSD Touchdown Tandems Die Cuts", "#T22", expectedPlayerNames)
+        self.assertNoSubsetName(item)
+        self.assertNoErrorInformation(item)
+
+
 
 
 suite = unittest.TestLoader().loadTestsFromTestCase(BeckettParserTests)
