@@ -1,8 +1,10 @@
 None
 {'autograph': 1,
  'cardNumber': u'#78',
+ 'memorabilia': 1,
  'originalItemDescription': u'2003-04 Exquisite Collection #78 LeBron James JSY AU RC',
  'playerNames': [u'LeBron James'],
+ 'rookieCard': 1,
  'serialNumber': 99,
  'setName': u'Exquisite Collection',
  'year': u'2003-04'}
@@ -20,18 +22,21 @@ None
  'year': u'2003-04'}
 {'autograph': 1,
  'cardNumber': u'#78',
+ 'memorabilia': 1,
  'originalItemDescription': u'2003-04 Exquisite Collection Rookie Patch Parallel #78 LeBron James/23',
  'playerNames': [u'LeBron James'],
  'serialNumber': 23,
  'setName': u'Exquisite Collection Rookie Patch Parallel',
  'year': u'2003-04'}
 {'cardNumber': u'#BJ',
+ 'memorabilia': 1,
  'originalItemDescription': u'2003-04 Exquisite Collection All-NBA Access Press Patches #BJ Kobe Bryant/LeBron James',
  'playerNames': [u'Kobe Bryant', u'LeBron James'],
  'serialNumber': 1,
  'setName': u'Exquisite Collection All-NBA Access Press Patches',
  'year': u'2003-04'}
 {'cardNumber': u'#JJ',
+ 'memorabilia': 1,
  'originalItemDescription': u'2003-04 Exquisite Collection All-NBA Access Press Patches #JJ LeBron James/Michael Jordan',
  'playerNames': [u'LeBron James', u'Michael Jordan'],
  'serialNumber': 1,
@@ -39,24 +44,28 @@ None
  'year': u'2003-04'}
 {'autograph': 1,
  'cardNumber': u'#LJ',
+ 'memorabilia': 1,
  'originalItemDescription': u'2003-04 Exquisite Collection Emblems of Endorsement #LJ LeBron James',
  'playerNames': [u'LeBron James'],
  'serialNumber': 15,
  'setName': u'Exquisite Collection Emblems of Endorsement',
  'year': u'2003-04'}
 {'cardNumber': u'#LJ',
+ 'memorabilia': 1,
  'originalItemDescription': u'2003-04 Exquisite Collection Extra Exquisite #LJ LeBron James',
  'playerNames': [u'LeBron James'],
  'serialNumber': 75,
  'setName': u'Exquisite Collection Extra Exquisite',
  'year': u'2003-04'}
 {'cardNumber': u'#LJ1',
+ 'memorabilia': 1,
  'originalItemDescription': u'2003-04 Exquisite Collection Extra Exquisite #LJ1 LeBron James',
  'playerNames': [u'LeBron James'],
  'serialNumber': 75,
  'setName': u'Exquisite Collection Extra Exquisite',
  'year': u'2003-04'}
 {'cardNumber': u'#JABW',
+ 'memorabilia': 1,
  'originalItemDescription': u'2003-04 Exquisite Collection Foursomes #JABW LeBron James/Carmelo Anthony/Chris Bosh/Dwyane Wade',
  'playerNames': [u'LeBron James',
                  u'Carmelo Anthony',
@@ -67,6 +76,7 @@ None
  'year': u'2003-04'}
 {'autograph': 1,
  'cardNumber': u'#LJ',
+ 'memorabilia': 1,
  'originalItemDescription': u'2003-04 Exquisite Collection Limited Logos #LJ LeBron James',
  'playerNames': [u'LeBron James'],
  'serialNumber': 75,
@@ -74,6 +84,7 @@ None
  'year': u'2003-04'}
 {'autograph': 1,
  'cardNumber': u'#LJ',
+ 'memorabilia': 1,
  'originalItemDescription': u'2003-04 Exquisite Collection Noble Nameplates #LJ LeBron James',
  'playerNames': [u'LeBron James'],
  'serialNumber': 25,
@@ -81,6 +92,7 @@ None
  'year': u'2003-04'}
 {'autograph': 1,
  'cardNumber': u'#LJ',
+ 'memorabilia': 1,
  'originalItemDescription': u'2003-04 Exquisite Collection Number Piece Autographs #LJ LeBron James/23',
  'playerNames': [u'LeBron James'],
  'serialNumber': 23,
@@ -88,24 +100,28 @@ None
  'year': u'2003-04'}
 {'autograph': 1,
  'cardNumber': u'#LJ',
+ 'memorabilia': 1,
  'originalItemDescription': u'2003-04 Exquisite Collection Patches Autographs #LJ LeBron James',
  'playerNames': [u'LeBron James'],
  'serialNumber': 100,
  'setName': u'Exquisite Collection Patches Autographs',
  'year': u'2003-04'}
 {'cardNumber': u'#LJ',
+ 'memorabilia': 1,
  'originalItemDescription': u'2003-04 Exquisite Collection Patches Quad #LJ LeBron James',
  'playerNames': [u'LeBron James'],
  'serialNumber': 3,
  'setName': u'Exquisite Collection Patches Quad',
  'year': u'2003-04'}
 {'cardNumber': u'#LJ',
+ 'memorabilia': 1,
  'originalItemDescription': u'2003-04 Exquisite Collection Patches Triple #LJ Lebron James',
  'playerNames': [u'Lebron James'],
  'serialNumber': 10,
  'setName': u'Exquisite Collection Patches Triple',
  'year': u'2003-04'}
 {'cardNumber': u'#LJ1',
+ 'memorabilia': 1,
  'originalItemDescription': u'2003-04 Exquisite Collection Patches Triple #LJ1 Lebron James',
  'playerNames': [u'Lebron James'],
  'serialNumber': 10,
@@ -113,6 +129,7 @@ None
  'year': u'2003-04'}
 {'autograph': 1,
  'cardNumber': u'#LJ',
+ 'memorabilia': 1,
  'originalItemDescription': u'2003-04 Exquisite Collection Scripted Swatches #LJ LeBron James',
  'playerNames': [u'LeBron James'],
  'serialNumber': 25,
@@ -126,12 +143,14 @@ None
  'setName': u'SP Authentic Exquisite Endorsements',
  'year': u'2003-04'}
 {'cardNumber': u'#LJ',
+ 'memorabilia': 1,
  'originalItemDescription': u'2003-04 Exquisite Collection Extra Exquisite Duals #LJ LeBron James',
  'playerNames': [u'LeBron James'],
  'serialNumber': 25,
  'setName': u'Exquisite Collection Extra Exquisite Duals',
  'year': u'2003-04'}
 {'cardNumber': u'#LJ1',
+ 'memorabilia': 1,
  'originalItemDescription': u'2003-04 Exquisite Collection Extra Exquisite Duals #LJ1 LeBron James',
  'playerNames': [u'LeBron James'],
  'serialNumber': 25,
@@ -139,6 +158,7 @@ None
  'year': u'2003-04'}
 {'autograph': 1,
  'cardNumber': u'#LJ5',
+ 'memorabilia': 1,
  'originalItemDescription': u'2008-09 Exquisite Collection Hinged Cards #LJ5 LeBron James 2003/10',
  'playerNames': [u'LeBron James'],
  'serialNumber': 10,

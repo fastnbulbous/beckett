@@ -82,7 +82,7 @@
       <file leaf-file-name="beckett_spider.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tutorial/spiders/beckett_spider.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="67" column="12" selection-start="2637" selection-end="2637" vertical-scroll-proportion="0.43125904" vertical-offset="841" max-vertical-offset="1683">
+            <state line="59" column="0" selection-start="2377" selection-end="2624" vertical-scroll-proportion="0.28364688" vertical-offset="807" max-vertical-offset="1666">
               <folding>
                 <element signature="e#20#29#0" expanded="true" />
               </folding>
@@ -692,7 +692,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tutorial/spiders/beckett_spider.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="67" column="12" selection-start="2637" selection-end="2637" vertical-scroll-proportion="0.43125904" vertical-offset="841" max-vertical-offset="1683">
+        <state line="59" column="0" selection-start="2377" selection-end="2624" vertical-scroll-proportion="0.28364688" vertical-offset="807" max-vertical-offset="1666">
           <folding>
             <element signature="e#20#29#0" expanded="true" />
           </folding>

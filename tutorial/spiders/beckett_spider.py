@@ -65,17 +65,16 @@ class BeckettSpider(Spider):
             print testRookieCard
             print testSerialNumber
 
-            
 
             if len(testAuto) > 0:
                 logging.info("Is an Auto")
                 item['autograph'] = len(testAuto)
-            if testMemorabilia is not None:
+            if len(testMemorabilia) > 0:
                 logging.info("Is  memorabilia")
-                print "is memorabilia"
-            if testRookieCard is not None:
+                item['memorabilia'] = len(testMemorabilia)
+            if len(testRookieCard)> 0:
                 logging.info("Is a RC")
-                print "is rc"
+                item['rookieCard'] = len(testRookieCard)
 
 
             """Getting the serial number which is in a separate column and is listed as a number on becket"""
