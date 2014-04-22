@@ -29,6 +29,8 @@ def parseBeckettTableRow(itemDescription, logging):
        logging.warn("this item was not long enough and is missing info: " + itemDescription)
        return
 
+    item['originalItemDescription'] = itemDescription
+
     """Cutting off the year of the product"""
 
     yearRegEx = re.compile(r'^([\w\-]+)')
@@ -94,7 +96,7 @@ def parseBeckettTableRow(itemDescription, logging):
 
             #remove the error description code and text from the item description
             itemDescription = itemDescription.replace("UER", "").strip()
-            logging.info("Trimmed UER tag: " + itemDescription);
+            logging.info("Trimmed UER tag:" + itemDescription);
             itemDescription = itemDescription.replace(errorDescription.strip(), "").strip()
             item['errorInformation'] = errorDescription
 
@@ -143,7 +145,7 @@ def parseBeckettTableRow(itemDescription, logging):
             if len(fullName) > 3:
                 logging.warn("This player has more than 3 names, something to check")
         else:
-            logging.info("Ignored complete name sequence: " + ''.join(fullName).strip())
+            logging.info("Ignored complete name sequence " + ''.join(fullName).strip())
 
     item['playerNames'] = playersNames
 

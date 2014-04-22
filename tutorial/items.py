@@ -20,6 +20,7 @@ class BeckettItem(Item):
     autograph = Field()
     memorabilia = Field()
     rookieCard = Field()
+    originalItemDescription = Field()
 
 def __repr__(self):
     return self.__str__()

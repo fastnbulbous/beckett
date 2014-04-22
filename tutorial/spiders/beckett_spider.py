@@ -5,17 +5,18 @@ from scrapy.spider import Spider
 from scrapy.selector import Selector
 from scrapy.selector import HtmlXPathSelector
 from tutorial.items import BeckettItem
+from scrapy.item import Item, Field
 
 from beckett_parser import parseBeckettTableRow
 
 import logging
-logging.basicConfig(filename='parsing.log',level=logging.DEBUG)
+logging.basicConfig(filename='beckett.log',level=logging.INFO)
 
 class BeckettSpider(Spider):
     name = "beckett"
     allowed_domains = ["www.beckett.com"]
     start_urls = [
-        "http://www.beckett.com/search/?term=1997+printing+plates&tmm=extended&attr=24470&rowNum=5000&page=1"
+        "http://www.beckett.com/search/?sport=185226&rowNum=1000&tmm=extended&term=lebron+exquisite+2003&attr=24470"
         #"http://www.dmoz.org/Computers/Programming/Languages/Python/Resources/"
     ]
 
@@ -26,13 +27,12 @@ class BeckettSpider(Spider):
 
         selector = Selector(response)
         tableRows = selector.xpath("//table[@id='faceted']//tr")
-        becketItems = []
 
         logging.info("Starting new parse\n")
         logging.info("URL search: " + response.url)
 
         for tableRow in tableRows:
-            print "Parsing Row"
+            logging.info("Parsing Row")
 
             """ Getting the whole item description, which we need to cut up, it is a text element which contains a hash"""
 
@@ -44,10 +44,35 @@ class BeckettSpider(Spider):
 
             # This will could look something like
 
-            print originalItemDescription
             logging.info("Parsing item description: "+originalItemDescription)
 
             item = parseBeckettTableRow(itemDescription, logging)
+
+            """Now seeing if there are any attributes for memorbilia, autograph, serial number or rookie card in the same column
+                these are done as special divs inside the same column in the element above"""
+
+            testAuto  = tableRow.xpath('./td/div[@class="attr au"]/text()').extract()
+            testMemorabilia  = tableRow.xpath('./td/div[@class="attr mem"]/text()').extract()
+            testRookieCard  = tableRow.xpath('./td/div[@class="attr rc"]/text()').extract()
+            testSerialNumber = tableRow.xpath('./td/div[@class="attr sn"]/text()').extract()
+
+            print("Tetsing divs for:" + originalItemDescription)
+
+            print testAuto
+            print testMemorabilia
+            print testRookieCard
+            print testSerialNumber
+
+            if testAuto is not None:
+                logging.info("Is an Auto")
+                #item['autograph'] = ''.join(testAuto).strip()
+            if testMemorabilia is not None:
+                logging.info("Is  memorabilia")
+                print "is memorabilia"
+            if testRookieCard is not None:
+                logging.info("Is a RC")
+                print "is rc"
+
 
             """Getting the serial number which is in a separate column and is listed as a number on becket"""
 

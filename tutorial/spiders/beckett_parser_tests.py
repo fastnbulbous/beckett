@@ -3,7 +3,7 @@ import random
 import unittest
 import logging
 #log to stdout
-logging.basicConfig(level=logging.DEBUG)
+#logging.basicConfig(level=logging.DEBUG)
 
 from beckett_parser import parseBeckettTableRow
 from utilities import hasHigherProportionOfLowerCaseCharacters, isProbablyAName, hasNumbersInString
