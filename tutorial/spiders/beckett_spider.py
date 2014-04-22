@@ -59,13 +59,17 @@ class BeckettSpider(Spider):
             print("Tetsing divs for:" + originalItemDescription)
 
             print testAuto
+            print "Test auto length " + str(len(testAuto))
             print testMemorabilia
+            print "Test mem " + str(len(testMemorabilia))
             print testRookieCard
             print testSerialNumber
 
-            if testAuto is not None:
+            
+
+            if len(testAuto) > 0:
                 logging.info("Is an Auto")
-                #item['autograph'] = ''.join(testAuto).strip()
+                item['autograph'] = len(testAuto)
             if testMemorabilia is not None:
                 logging.info("Is  memorabilia")
                 print "is memorabilia"
