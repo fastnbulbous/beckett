@@ -26,7 +26,7 @@
       <file leaf-file-name="beckett_parser_tests.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tutorial/spiders/beckett_parser_tests.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="96" column="46" selection-start="4560" selection-end="4560" vertical-scroll-proportion="0.6238938" vertical-offset="1209" max-vertical-offset="1921">
+            <state line="68" column="42" selection-start="3029" selection-end="3146" vertical-scroll-proportion="0.33333334" vertical-offset="930" max-vertical-offset="1921">
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -55,10 +55,8 @@
       <file leaf-file-name="items.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tutorial/items.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="23" selection-start="531" selection-end="531" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="595">
-              <folding>
-                <marker date="1398150827989" expanded="true" signature="188:570" placeholder="..." />
-              </folding>
+            <state line="9" column="4" selection-start="215" selection-end="226" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="595">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -84,10 +82,9 @@
       <file leaf-file-name="beckett_spider.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tutorial/spiders/beckett_spider.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="61" column="40" selection-start="2479" selection-end="2479" vertical-scroll-proportion="-8.923077" vertical-offset="805" max-vertical-offset="1547">
+            <state line="94" column="47" selection-start="4004" selection-end="4004" vertical-scroll-proportion="-24.615385" vertical-offset="958" max-vertical-offset="1972">
               <folding>
                 <element signature="e#20#29#0" expanded="true" />
-                <marker date="1398158417409" expanded="true" signature="696:3520" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -114,11 +111,9 @@
       <file leaf-file-name="beckett_parser.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tutorial/spiders/beckett_parser.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="0" selection-start="931" selection-end="931" vertical-scroll-proportion="18.538462" vertical-offset="924" max-vertical-offset="2669">
+            <state line="89" column="0" selection-start="3687" selection-end="3687" vertical-scroll-proportion="17.884615" vertical-offset="1978" max-vertical-offset="2669">
               <folding>
                 <element signature="e#54#153#0" expanded="true" />
-                <marker date="1398150286441" expanded="true" signature="284:851" placeholder="..." />
-                <marker date="1398150286441" expanded="true" signature="904:6544" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -139,9 +134,9 @@
         <option value="$PROJECT_DIR$/tutorial/settings.py" />
         <option value="$PROJECT_DIR$/scrapy.cfg" />
         <option value="$PROJECT_DIR$/tutorial/spiders/beckett_parser.py" />
+        <option value="$PROJECT_DIR$/tutorial/spiders/beckett_parser_tests.py" />
         <option value="$PROJECT_DIR$/tutorial/items.py" />
         <option value="$PROJECT_DIR$/tutorial/spiders/beckett_spider.py" />
-        <option value="$PROJECT_DIR$/tutorial/spiders/beckett_parser_tests.py" />
       </list>
     </option>
   </component>
@@ -511,7 +506,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1176" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -523,7 +518,7 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30560747" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30560747" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -584,9 +579,7 @@
     <entry file="file://$PROJECT_DIR$/tutorial/items.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="4" selection-start="361" selection-end="377" vertical-scroll-proportion="0.0" vertical-offset="61" max-vertical-offset="578">
-          <folding>
-            <marker date="1398150827989" expanded="true" signature="188:570" placeholder="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -609,7 +602,6 @@
         <state line="11" column="0" selection-start="250" selection-end="313" vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="1190">
           <folding>
             <element signature="e#20#29#0" expanded="true" />
-            <marker date="1398158417409" expanded="true" signature="696:3520" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -633,8 +625,6 @@
         <state line="6" column="9" selection-start="217" selection-end="217" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="2278">
           <folding>
             <element signature="e#54#153#0" expanded="true" />
-            <marker date="1398150286441" expanded="true" signature="284:851" placeholder="..." />
-            <marker date="1398150286441" expanded="true" signature="904:6544" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -667,13 +657,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tutorial/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="255" selection-end="255" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tutorial/pipelines.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="466">
@@ -681,39 +664,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tutorial/spiders/beckett_parser.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="0" selection-start="931" selection-end="931" vertical-scroll-proportion="18.538462" vertical-offset="924" max-vertical-offset="2669">
-          <folding>
-            <element signature="e#54#153#0" expanded="true" />
-            <marker date="1398150286441" expanded="true" signature="284:851" placeholder="..." />
-            <marker date="1398150286441" expanded="true" signature="904:6544" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tutorial/items.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="23" selection-start="531" selection-end="531" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="595">
-          <folding>
-            <marker date="1398150827989" expanded="true" signature="188:570" placeholder="..." />
-          </folding>
+        <state line="9" column="4" selection-start="215" selection-end="226" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="595">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tutorial/spiders/beckett_spider.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="40" selection-start="2479" selection-end="2479" vertical-scroll-proportion="-8.923077" vertical-offset="805" max-vertical-offset="1547">
+        <state line="94" column="47" selection-start="4004" selection-end="4004" vertical-scroll-proportion="-24.615385" vertical-offset="958" max-vertical-offset="1972">
           <folding>
             <element signature="e#20#29#0" expanded="true" />
-            <marker date="1398158417409" expanded="true" signature="696:3520" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="255" selection-end="255" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial/spiders/beckett_parser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="89" column="0" selection-start="3687" selection-end="3687" vertical-scroll-proportion="17.884615" vertical-offset="1978" max-vertical-offset="2669">
+          <folding>
+            <element signature="e#54#153#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tutorial/spiders/beckett_parser_tests.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="96" column="46" selection-start="4560" selection-end="4560" vertical-scroll-proportion="0.6238938" vertical-offset="1209" max-vertical-offset="1921">
+        <state line="68" column="42" selection-start="3029" selection-end="3146" vertical-scroll-proportion="0.33333334" vertical-offset="930" max-vertical-offset="1921">
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>

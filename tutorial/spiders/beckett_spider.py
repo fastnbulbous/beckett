@@ -16,7 +16,7 @@ class BeckettSpider(Spider):
     name = "beckett"
     allowed_domains = ["www.beckett.com"]
     start_urls = [
-        "http://www.beckett.com/search/?sport=185226&rowNum=1000&tmm=extended&term=lebron+exquisite+2003&attr=24470"
+        "http://www.beckett.com/search/?sport=185226&rowNum=20&tmm=extended&term=sprewell&attr=24470"
         #"http://www.dmoz.org/Computers/Programming/Languages/Python/Resources/"
     ]
 
@@ -69,6 +69,31 @@ class BeckettSpider(Spider):
                 logging.info("Is a serial numbered card")
             else:
                 logging.warn("Didn't find a serial tag on this")
+
+            """Try getting the becket info link and web image"""
+
+            print "Getting image links"
+            #gets image links for each card. all of the, have a width of 50
+            # './td/img[@width="50"]/@src' worked but without width it also seems to work fine
+            imageLink = tableRow.xpath('./td/img/@src').extract()
+
+            try:
+                item['imageLink'] = imageLink
+            except:
+                # couldn't determine image link
+                logging.warn("There is no image link for: "+originalItemDescription)
+
+            print "Getting href links"
+            #this link is not specifically marked up well, other than the name, year and sport match
+            # more simply we just make sure we don't get a href link pointing to the login for the
+            # beckett price guide. This leaves us with the real card info link
+            beckettLink =  tableRow.xpath('./td/a[not(contains(@href, "login"))]/@href').extract()
+
+            try:
+                item['beckettLink'] = beckettLink
+            except:
+                # couldn't determine image link
+                logging.warn("There is no beckett link for: "+originalItemDescription)
 
             """Getting the serial number which is in a separate column and is listed as a number on becket"""
 

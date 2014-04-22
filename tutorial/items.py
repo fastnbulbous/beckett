@@ -7,7 +7,7 @@ from scrapy.item import Item, Field
 
 class BeckettItem(Item):
     setName = Field()
-    becketLink = Field()
+    beckettLink = Field()
     imageLink = Field()
     description = Field()
     cardNumber = Field()
