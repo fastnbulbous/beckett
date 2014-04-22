@@ -6,6 +6,21 @@ from tutorial.items import BeckettItem
 import logging
 import re
 
+def removeAbbreviations(itemDescription, abbreviation, logging) :
+
+    if(itemDescription.count('#') > 0):
+        logging.warn("We should not be removing the abbreviations if there is still a has in the description representing the card number")
+
+    abbreviationCount = itemDescription.count(abbreviation)
+
+    if abbreviationCount == 1:
+        itemDescription = itemDescription.replace(abbreviation, "").strip()
+        logging.info("Removing abbreviation " + abbreviation)
+    if abbreviationCount > 1:
+        logging.warn("We have a high number of instances of the abbreviation: " + abbreviation)
+
+    return itemDescription;
+
 def parseBeckettTableRow(itemDescription, logging):
 
     item = BeckettItem()
@@ -21,7 +36,7 @@ def parseBeckettTableRow(itemDescription, logging):
 
     if year:
         year = year.group()
-        print year
+        logging.info("Extracted year: " + year);
         item['year'] = year
     else:
         logging.error("We could not determine the year for the item:"+itemDescription)
@@ -29,7 +44,7 @@ def parseBeckettTableRow(itemDescription, logging):
 
     #now we remove the first instance of the year from the item descrption to make further parsing easier
     itemDescription = itemDescription.replace(str(year), "").strip()
-    print "Trimmed:"+itemDescription
+    logging.info("Removed Year from descripition: " + year);
 
     """ Cutting off the set name from the item"""
 
@@ -43,17 +58,17 @@ def parseBeckettTableRow(itemDescription, logging):
             setName = itemDescription[0:hashIndexPosition].strip()
             item['setName'] = setName
             itemDescription = itemDescription.replace(str(setName), "").strip()
-            print setName
-            print "Trimmed:"+itemDescription
+            logging.info("Extracted setname: " + setName);
+            logging.info("Removed set name from description: " + itemDescription);
     else:
-        print "The hash is not in"+itemDescription
+        logging.error("Hash was not in the string, can't determine set name correctly")
 
     cardNumberRegEx = re.compile(r'^(#\S+)')
     cardNumber = cardNumberRegEx.search(itemDescription)
 
     if cardNumber:
         cardNumber = cardNumber.group()
-        print cardNumber
+        logging.info("Extracted card number:" + cardNumber);
         item['cardNumber'] = cardNumber
     else:
         logging.error("We could not find a card number for this item: "+itemDescription)
@@ -61,7 +76,13 @@ def parseBeckettTableRow(itemDescription, logging):
 
     #now we remove the card number from the item descrption to make further parsing easier
     itemDescription = itemDescription.replace(str(cardNumber), "").strip()
-    print "Trimmed:"+itemDescription
+
+
+    itemDescription = removeAbbreviations(itemDescription, "JSY", logging)
+    itemDescription = removeAbbreviations(itemDescription, "AU", logging)
+    itemDescription = removeAbbreviations(itemDescription, "RC", logging)
+
+    logging.info("Removed common abbreviations, remaining description: "+itemDescription)
 
     errorCount = itemDescription.count("UER")
 
@@ -73,12 +94,12 @@ def parseBeckettTableRow(itemDescription, logging):
 
             #remove the error description code and text from the item description
             itemDescription = itemDescription.replace("UER", "").strip()
-            print "Trimmed UER Tag: " + itemDescription
+            logging.info("Trimmed UER tag: " + itemDescription);
             itemDescription = itemDescription.replace(errorDescription.strip(), "").strip()
-            item['errorInformation'] = "Error: " + errorDescription
+            item['errorInformation'] = errorDescription
 
-            print "Parsed error description: " + errorDescription
-            print "Trimmed error info: " + itemDescription
+            logging.info("Extracted error description: " + errorDescription);
+            logging.info("Trimmed error description: " + errorDescription);
         else:
             logging.error("We had an unecpexted number of UER error stetes for a card: "+itemDescription)
             return #continue the for loop of elements as this is not enough info to pass
@@ -87,7 +108,7 @@ def parseBeckettTableRow(itemDescription, logging):
     This would be if the last element in the the remaining item descrpition is all capaital letters"""
     subsetName = itemDescription.split()[-1];
 
-    print "Evaluating if this is a subset: " + subsetName
+    logging.info("Evaluating subset: " + subsetName);
 
     if not hasHigherProportionOfLowerCaseCharacters(subsetName):
         # if the subset is not a title it means there is more than one capital
@@ -112,17 +133,17 @@ def parseBeckettTableRow(itemDescription, logging):
             #if the name is not a number and is in titel format we'll use it
             if isProbablyAName(name):
                 fullName.append(name+" ")
-                print "Appending name: " + name
+                logging.info("Appending name: " + name);
             else:
                 logging.warn("Disregarding name: " + name)
 
         if len(fullName) > 0:
-            print "Full player name: " + ''.join(fullName).strip()
+            logging.info("Full player name: " + ''.join(fullName).strip());
             playersNames.append(''.join(fullName).strip())
             if len(fullName) > 3:
                 logging.warn("This player has more than 3 names, something to check")
         else:
-            logging.info("Ignored complete name sequence " + ''.join(fullName).strip())
+            logging.info("Ignored complete name sequence: " + ''.join(fullName).strip())
 
     item['playerNames'] = playersNames
 

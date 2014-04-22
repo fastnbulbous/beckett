@@ -20,8 +20,22 @@ class TestSequenceFunctions(unittest.TestCase):
         self.assertEqual("1997-98", item['year'], "The year is not as expected")
         self.assertEqual("Stadium Club Printing Plates", item['setName'], "The set name is not as expected")
         self.assertEqual("#204", item['cardNumber'], "The card number is not as expected")
-        self.assertEqual(1, len(item['playerNames']), "more than 1 player found")
+        self.assertEqual(1, len(item['playerNames']), "more than 1 player found, list:" + ''.join(item['playerNames']).strip())
         self.assertEqual("David Wesley Black", item['playerNames'][0], "the player name list is not as expected")#the first and only player on the list
+
+        try:
+            item['errorInformation']
+            self.assertTrue(False, "There should not be any error information")
+        except: KeyError
+
+    def test_parser_removes_unwanted_abbreviations(self):
+        item = parseBeckettTableRow("2003-04 Exquisite Collection #78 LeBron James JSY AU RC", logging)
+
+        self.assertEqual("2003-04", item['year'], "The year is not as expected")
+        self.assertEqual("Exquisite Collection", item['setName'], "The set name is not as expected")
+        self.assertEqual("#78", item['cardNumber'], "The card number is not as expected")
+        self.assertEqual(1, len(item['playerNames']), "more than 1 player found, list:" + ''.join(item['playerNames']).strip())
+        self.assertEqual("LeBron James", item['playerNames'][0], "the player name list is not as expected")#the first and only player on the list
 
         try:
             item['errorInformation']
