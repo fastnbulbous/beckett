@@ -1,5 +1,4 @@
-None
-{'beckettLink': [u'http://www.beckett.com/basketball/1997/bleachersfleer-gold/11-scottie-pippen-1988-89-3129467'],
+None{'beckettLink': [u'http://www.beckett.com/basketball/1997/bleachersfleer-gold/11-scottie-pippen-1988-89-3129467'],
  'cardNumber': u'#11',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997 Bleachers/Fleer Gold #11 Scottie Pippen 1988-89',
@@ -8,8 +7,7 @@ None
  'setName': u'Bleachers/Fleer Gold',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997/bleachersfleer-gold/12-dennis-rodman-1988-89-3129468'],
+ 'year': u'1997'}{'beckettLink': [u'http://www.beckett.com/basketball/1997/bleachersfleer-gold/12-dennis-rodman-1988-89-3129468'],
  'cardNumber': u'#12',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997 Bleachers/Fleer Gold #12 Dennis Rodman 1988-89',
@@ -18,8 +16,7 @@ None
  'setName': u'Bleachers/Fleer Gold',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997'}
-{'autograph': 1,
+ 'year': u'1997'}{'autograph': 1,
  'beckettLink': [u'http://www.beckett.com/basketball/1997/upper-deck-michael-jordan-championship-journals/nno-michael-jordanspecial-card---au50-3128751'],
  'cardNumber': u'#NNO',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
@@ -29,8 +26,7 @@ None
  'setName': u'Upper Deck Michael Jordan Championship Journals',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997'}
-{'autograph': 1,
+ 'year': u'1997'}{'autograph': 1,
  'beckettLink': [u'http://www.beckett.com/basketball/1997/spx-promotion-autographs/1-michael-jordan-3128611'],
  'cardNumber': u'#1',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
@@ -40,8 +36,7 @@ None
  'setName': u'SPx ProMotion Autographs',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/upper-deck/nno-michael-jordan-white-audio-3134229'],
+ 'year': u'1997'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/upper-deck/nno-michael-jordan-white-audio-3134229'],
  'cardNumber': u'#NNO',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Upper Deck #NNO Michael Jordan White Audio',
@@ -50,8 +45,7 @@ None
  'setName': u'Upper Deck',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/e-x2001-essential-credentials-future/5-dennis-rodman76-3144591'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/e-x2001-essential-credentials-future/5-dennis-rodman76-3144591'],
  'cardNumber': u'#5',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 E-X2001 Essential Credentials Future #5 Dennis Rodman/76',
@@ -60,8 +54,7 @@ None
  'setName': u'E-X2001 Essential Credentials Future',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/e-x2001-essential-credentials-future/11-scottie-pippen70-3144597'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/e-x2001-essential-credentials-future/11-scottie-pippen70-3144597'],
  'cardNumber': u'#11',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 E-X2001 Essential Credentials Future #11 Scottie Pippen/70',
@@ -70,8 +63,7 @@ None
  'setName': u'E-X2001 Essential Credentials Future',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/e-x2001-essential-credentials-now/5-dennis-rodman5-3144678'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/e-x2001-essential-credentials-now/5-dennis-rodman5-3144678'],
  'cardNumber': u'#5',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 E-X2001 Essential Credentials Now #5 Dennis Rodman/5',
@@ -80,8 +72,7 @@ None
  'setName': u'E-X2001 Essential Credentials Now',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/e-x2001-essential-credentials-now/11-scottie-pippen11-3144684'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/e-x2001-essential-credentials-now/11-scottie-pippen11-3144684'],
  'cardNumber': u'#11',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 E-X2001 Essential Credentials Now #11 Scottie Pippen/11',
@@ -90,8 +81,7 @@ None
  'setName': u'E-X2001 Essential Credentials Now',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/finest-embossed-refractors/125-scottie-pippen-s-3145333'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/finest-embossed-refractors/125-scottie-pippen-s-3145333'],
  'cardNumber': u'#125',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Finest Embossed Refractors #125 Scottie Pippen S',
@@ -101,8 +91,7 @@ None
  'sport': 'Basketball',
  'subsetName': u'S',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/finest-embossed-refractors/142-toni-kukoc-s-3145350'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/finest-embossed-refractors/142-toni-kukoc-s-3145350'],
  'cardNumber': u'#142',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Finest Embossed Refractors #142 Toni Kukoc S',
@@ -112,8 +101,7 @@ None
  'sport': 'Basketball',
  'subsetName': u'S',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/finest-embossed-refractors/154-michael-jordan-g-3145362'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/finest-embossed-refractors/154-michael-jordan-g-3145362'],
  'cardNumber': u'#154',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Finest Embossed Refractors #154 Michael Jordan G',
@@ -123,8 +111,7 @@ None
  'sport': 'Basketball',
  'subsetName': u'G',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/finest-embossed-refractors/167-dennis-rodman-g-3145375'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/finest-embossed-refractors/167-dennis-rodman-g-3145375'],
  'cardNumber': u'#167',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Finest Embossed Refractors #167 Dennis Rodman G',
@@ -134,8 +121,7 @@ None
  'sport': 'Basketball',
  'subsetName': u'G',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/finest-embossed-refractors/275-dennis-rodman-s-3145383'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/finest-embossed-refractors/275-dennis-rodman-s-3145383'],
  'cardNumber': u'#275',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Finest Embossed Refractors #275 Dennis Rodman S',
@@ -145,8 +131,7 @@ None
  'sport': 'Basketball',
  'subsetName': u'S',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/finest-embossed-refractors/287-michael-jordan-s-3145395'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/finest-embossed-refractors/287-michael-jordan-s-3145395'],
  'cardNumber': u'#287',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Finest Embossed Refractors #287 Michael Jordan S',
@@ -156,8 +141,7 @@ None
  'sport': 'Basketball',
  'subsetName': u'S',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/finest-embossed-refractors/322-scottie-pippen-g-3145430'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/finest-embossed-refractors/322-scottie-pippen-g-3145430'],
  'cardNumber': u'#322',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Finest Embossed Refractors #322 Scottie Pippen G',
@@ -167,8 +151,7 @@ None
  'sport': 'Basketball',
  'subsetName': u'G',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/finest-refractors/125-scottie-pippen-s-3145591'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/finest-refractors/125-scottie-pippen-s-3145591'],
  'cardNumber': u'#125',
  'imageLink': [u'http://img.beckett.com/images/items_stock/185226/3145435/3145591/front.jpg'],
  'originalItemDescription': u'1997-98 Finest Refractors #125 Scottie Pippen S',
@@ -178,8 +161,7 @@ None
  'sport': 'Basketball',
  'subsetName': u'S',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/finest-refractors/142-toni-kukoc-s-3145608'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/finest-refractors/142-toni-kukoc-s-3145608'],
  'cardNumber': u'#142',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Finest Refractors #142 Toni Kukoc S',
@@ -189,8 +171,7 @@ None
  'sport': 'Basketball',
  'subsetName': u'S',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/finest-refractors/154-michael-jordan-g-3145620'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/finest-refractors/154-michael-jordan-g-3145620'],
  'cardNumber': u'#154',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Finest Refractors #154 Michael Jordan G',
@@ -200,8 +181,7 @@ None
  'sport': 'Basketball',
  'subsetName': u'G',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/finest-refractors/167-dennis-rodman-g-3145633'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/finest-refractors/167-dennis-rodman-g-3145633'],
  'cardNumber': u'#167',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Finest Refractors #167 Dennis Rodman G',
@@ -211,8 +191,7 @@ None
  'sport': 'Basketball',
  'subsetName': u'G',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/finest-refractors/275-dennis-rodman-s-3145741'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/finest-refractors/275-dennis-rodman-s-3145741'],
  'cardNumber': u'#275',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Finest Refractors #275 Dennis Rodman S',
@@ -222,8 +201,7 @@ None
  'sport': 'Basketball',
  'subsetName': u'S',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/finest-refractors/322-scottie-pippen-g-3145788'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/finest-refractors/322-scottie-pippen-g-3145788'],
  'cardNumber': u'#322',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Finest Refractors #322 Scottie Pippen G',
@@ -233,8 +211,7 @@ None
  'sport': 'Basketball',
  'subsetName': u'G',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/flair-showcase-row-0/13-dennis-rodman-3146111'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/flair-showcase-row-0/13-dennis-rodman-3146111'],
  'cardNumber': u'#13',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Flair Showcase Row 0 #13 Dennis Rodman',
@@ -243,8 +220,7 @@ None
  'setName': u'Flair Showcase Row 0',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/flair-showcase-row-0/16-scottie-pippen-3146114'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/flair-showcase-row-0/16-scottie-pippen-3146114'],
  'cardNumber': u'#16',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Flair Showcase Row 0 #16 Scottie Pippen',
@@ -253,8 +229,7 @@ None
  'setName': u'Flair Showcase Row 0',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/flair-showcase-legacy-collection-row-3/13-dennis-rodman-3148571'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/flair-showcase-legacy-collection-row-3/13-dennis-rodman-3148571'],
  'cardNumber': u'#13',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Flair Showcase Legacy Collection Row 3 #13 Dennis Rodman',
@@ -263,8 +238,7 @@ None
  'setName': u'Flair Showcase Legacy Collection Row 3',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/flair-showcase-legacy-collection-row-3/16-scottie-pippen-3148574'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/flair-showcase-legacy-collection-row-3/16-scottie-pippen-3148574'],
  'cardNumber': u'#16',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Flair Showcase Legacy Collection Row 3 #16 Scottie Pippen',
@@ -273,8 +247,7 @@ None
  'setName': u'Flair Showcase Legacy Collection Row 3',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/flair-showcase-legacy-collection-row-2/1-michael-jordan-3148469'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/flair-showcase-legacy-collection-row-2/1-michael-jordan-3148469'],
  'cardNumber': u'#1',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Flair Showcase Legacy Collection Row 2 #1 Michael Jordan',
@@ -283,8 +256,7 @@ None
  'setName': u'Flair Showcase Legacy Collection Row 2',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/metal-universe-precious-metal-gems/18-luc-longley-3142609'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/metal-universe-precious-metal-gems/18-luc-longley-3142609'],
  'cardNumber': u'#18',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Metal Universe Precious Metal Gems #18 Luc Longley',
@@ -293,8 +265,7 @@ None
  'setName': u'Metal Universe Precious Metal Gems',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/metal-universe-precious-metal-gems/23-michael-jordan-3142614'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/metal-universe-precious-metal-gems/23-michael-jordan-3142614'],
  'cardNumber': u'#23',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Metal Universe Precious Metal Gems #23 Michael Jordan',
@@ -303,8 +274,7 @@ None
  'setName': u'Metal Universe Precious Metal Gems',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/metal-universe-precious-metal-gems/58-steve-kerr-3142650'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/metal-universe-precious-metal-gems/58-steve-kerr-3142650'],
  'cardNumber': u'#58',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Metal Universe Precious Metal Gems #58 Steve Kerr',
@@ -313,8 +283,7 @@ None
  'setName': u'Metal Universe Precious Metal Gems',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/metal-universe-precious-metal-gems/61-toni-kukoc-3142653'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/metal-universe-precious-metal-gems/61-toni-kukoc-3142653'],
  'cardNumber': u'#61',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Metal Universe Precious Metal Gems #61 Toni Kukoc',
@@ -323,8 +292,7 @@ None
  'setName': u'Metal Universe Precious Metal Gems',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/metal-universe-precious-metal-gems/83-scottie-pippen-3142675'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/metal-universe-precious-metal-gems/83-scottie-pippen-3142675'],
  'cardNumber': u'#83',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Metal Universe Precious Metal Gems #83 Scottie Pippen',
@@ -333,8 +301,7 @@ None
  'setName': u'Metal Universe Precious Metal Gems',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/metal-universe-precious-metal-gems/107-dennis-rodman-3142699'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/metal-universe-precious-metal-gems/107-dennis-rodman-3142699'],
  'cardNumber': u'#107',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Metal Universe Precious Metal Gems #107 Dennis Rodman',
@@ -343,8 +310,7 @@ None
  'setName': u'Metal Universe Precious Metal Gems',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/metal-universe-championship-precious-metal-gems/62-dennis-rodman-3140737'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/metal-universe-championship-precious-metal-gems/62-dennis-rodman-3140737'],
  'cardNumber': u'#62',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Metal Universe Championship Precious Metal Gems #62 Dennis Rodman',
@@ -353,8 +319,7 @@ None
  'setName': u'Metal Universe Championship Precious Metal Gems',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/metal-universe-championship-precious-metal-gems/85-scottie-pippen-3140760'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/metal-universe-championship-precious-metal-gems/85-scottie-pippen-3140760'],
  'cardNumber': u'#85',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Metal Universe Championship Precious Metal Gems #85 Scottie Pippen',
@@ -363,8 +328,7 @@ None
  'setName': u'Metal Universe Championship Precious Metal Gems',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/skybox-premium-star-rubies/32-steve-kerr-3141203'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/skybox-premium-star-rubies/32-steve-kerr-3141203'],
  'cardNumber': u'#32',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 SkyBox Premium Star Rubies #32 Steve Kerr',
@@ -373,8 +337,7 @@ None
  'setName': u'SkyBox Premium Star Rubies',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/skybox-premium-star-rubies/39-toni-kukoc-3141210'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/skybox-premium-star-rubies/39-toni-kukoc-3141210'],
  'cardNumber': u'#39',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 SkyBox Premium Star Rubies #39 Toni Kukoc',
@@ -383,8 +346,7 @@ None
  'setName': u'SkyBox Premium Star Rubies',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/skybox-premium-star-rubies/44-luc-longley-3141215'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/skybox-premium-star-rubies/44-luc-longley-3141215'],
  'cardNumber': u'#44',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 SkyBox Premium Star Rubies #44 Luc Longley',
@@ -393,8 +355,7 @@ None
  'setName': u'SkyBox Premium Star Rubies',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/skybox-premium-star-rubies/48-scottie-pippen-3141219'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/skybox-premium-star-rubies/48-scottie-pippen-3141219'],
  'cardNumber': u'#48',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 SkyBox Premium Star Rubies #48 Scottie Pippen',
@@ -403,8 +364,7 @@ None
  'setName': u'SkyBox Premium Star Rubies',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/skybox-premium-star-rubies/119-dennis-rodman-3141290'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/skybox-premium-star-rubies/119-dennis-rodman-3141290'],
  'cardNumber': u'#119',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 SkyBox Premium Star Rubies #119 Dennis Rodman',
@@ -413,8 +373,7 @@ None
  'setName': u'SkyBox Premium Star Rubies',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/skybox-premium-star-rubies/207-keith-booth-3141376'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/skybox-premium-star-rubies/207-keith-booth-3141376'],
  'cardNumber': u'#207',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 SkyBox Premium Star Rubies #207 Keith Booth',
@@ -423,8 +382,7 @@ None
  'setName': u'SkyBox Premium Star Rubies',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/skybox-premium-star-rubies/220-jud-buechler-3141389'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/skybox-premium-star-rubies/220-jud-buechler-3141389'],
  'cardNumber': u'#220',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 SkyBox Premium Star Rubies #220 Jud Buechler',
@@ -433,8 +391,7 @@ None
  'setName': u'SkyBox Premium Star Rubies',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/skybox-premium-star-rubies/235-michael-jordan-ts-3141404'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/skybox-premium-star-rubies/235-michael-jordan-ts-3141404'],
  'cardNumber': u'#235',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 SkyBox Premium Star Rubies #235 Michael Jordan TS',
@@ -444,8 +401,7 @@ None
  'sport': 'Basketball',
  'subsetName': u'TS',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/skybox-premium-star-rubies/242-scottie-pippen-ts-3141411'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/skybox-premium-star-rubies/242-scottie-pippen-ts-3141411'],
  'cardNumber': u'#242',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 SkyBox Premium Star Rubies #242 Scottie Pippen TS',
@@ -455,8 +411,7 @@ None
  'sport': 'Basketball',
  'subsetName': u'TS',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/skybox-premium-star-rubies/244-dennis-rodman-ts-3141413'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/skybox-premium-star-rubies/244-dennis-rodman-ts-3141413'],
  'cardNumber': u'#244',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 SkyBox Premium Star Rubies #244 Dennis Rodman TS',
@@ -466,8 +421,7 @@ None
  'sport': 'Basketball',
  'subsetName': u'TS',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'autograph': 1,
+ 'year': u'1997-98'}{'autograph': 1,
  'beckettLink': [u'http://www.beckett.com/basketball/1997-98/skybox-premium-autographics-century-marks/15-randy-brown-3141597'],
  'cardNumber': u'#15',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
@@ -477,8 +431,7 @@ None
  'setName': u'SkyBox Premium Autographics Century Marks',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'autograph': 1,
+ 'year': u'1997-98'}{'autograph': 1,
  'beckettLink': [u'http://www.beckett.com/basketball/1997-98/skybox-premium-autographics-century-marks/16-jud-buechler-3141598'],
  'cardNumber': u'#16',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
@@ -488,8 +441,7 @@ None
  'setName': u'SkyBox Premium Autographics Century Marks',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'autograph': 1,
+ 'year': u'1997-98'}{'autograph': 1,
  'beckettLink': [u'http://www.beckett.com/basketball/1997-98/skybox-premium-autographics-century-marks/46-ron-harper-3141628'],
  'cardNumber': u'#46',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
@@ -499,8 +451,7 @@ None
  'setName': u'SkyBox Premium Autographics Century Marks',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'autograph': 1,
+ 'year': u'1997-98'}{'autograph': 1,
  'beckettLink': [u'http://www.beckett.com/basketball/1997-98/skybox-premium-autographics-century-marks/61-steve-kerr-3141643'],
  'cardNumber': u'#61',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
@@ -510,8 +461,7 @@ None
  'setName': u'SkyBox Premium Autographics Century Marks',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'autograph': 1,
+ 'year': u'1997-98'}{'autograph': 1,
  'beckettLink': [u'http://www.beckett.com/basketball/1997-98/skybox-premium-autographics-century-marks/85-scottie-pippen-3141667'],
  'cardNumber': u'#85',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
@@ -521,8 +471,7 @@ None
  'setName': u'SkyBox Premium Autographics Century Marks',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'autograph': 1,
+ 'year': u'1997-98'}{'autograph': 1,
  'beckettLink': [u'http://www.beckett.com/basketball/1997-98/skybox-premium-autographics-century-marks/91-dennis-rodman-3141673'],
  'cardNumber': u'#91',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
@@ -532,8 +481,7 @@ None
  'setName': u'SkyBox Premium Autographics Century Marks',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/spx-grand-finale/7-scottie-pippen-3137691'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/spx-grand-finale/7-scottie-pippen-3137691'],
  'cardNumber': u'#7',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 SPx Grand Finale #7 Scottie Pippen',
@@ -542,8 +490,7 @@ None
  'setName': u'SPx Grand Finale',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/spx-grand-finale/8-dennis-rodman-3137692'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/spx-grand-finale/8-dennis-rodman-3137692'],
  'cardNumber': u'#8',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 SPx Grand Finale #8 Dennis Rodman',
@@ -552,8 +499,7 @@ None
  'setName': u'SPx Grand Finale',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-one-of-a-kind/1-scottie-pippen-3138300'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-one-of-a-kind/1-scottie-pippen-3138300'],
  'cardNumber': u'#1',
  'imageLink': [u'http://img.beckett.com/images/items_stock/185226/3138288/3138300/front.jpg'],
  'originalItemDescription': u'1997-98 Stadium Club One Of A Kind #1 Scottie Pippen',
@@ -562,8 +508,7 @@ None
  'setName': u'Stadium Club One Of A Kind',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-one-of-a-kind/5-bulls---team-of-the-90sron-harpermichael-jordanscottie-pippendennis-rodman-3138304'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-one-of-a-kind/5-bulls---team-of-the-90sron-harpermichael-jordanscottie-pippendennis-rodman-3138304'],
  'cardNumber': u'#5',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Stadium Club One Of A Kind #5 Bulls - Team of the 90s/Ron Harper/Michael Jordan/Scottie Pippen/Dennis Rodman',
@@ -576,8 +521,7 @@ None
  'setName': u'Stadium Club One Of A Kind',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-one-of-a-kind/38-ron-harper-3138337'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-one-of-a-kind/38-ron-harper-3138337'],
  'cardNumber': u'#38',
  'imageLink': [u'http://img.beckett.com/images/items_stock/185226/3138288/3138337/front.jpg'],
  'originalItemDescription': u'1997-98 Stadium Club One Of A Kind #38 Ron Harper',
@@ -586,8 +530,7 @@ None
  'setName': u'Stadium Club One Of A Kind',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-one-of-a-kind/56-dennis-rodman-3138355'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-one-of-a-kind/56-dennis-rodman-3138355'],
  'cardNumber': u'#56',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Stadium Club One Of A Kind #56 Dennis Rodman',
@@ -596,8 +539,7 @@ None
  'setName': u'Stadium Club One Of A Kind',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-one-of-a-kind/63-steve-kerr-3138362'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-one-of-a-kind/63-steve-kerr-3138362'],
  'cardNumber': u'#63',
  'imageLink': [u'http://img.beckett.com/images/items_stock/185226/3138288/3138362/front.jpg'],
  'originalItemDescription': u'1997-98 Stadium Club One Of A Kind #63 Steve Kerr',
@@ -606,8 +548,7 @@ None
  'setName': u'Stadium Club One Of A Kind',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-one-of-a-kind/94-will-perdue-3138393'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-one-of-a-kind/94-will-perdue-3138393'],
  'cardNumber': u'#94',
  'imageLink': [u'http://img.beckett.com/images/items_stock/185226/3138288/3138393/front.jpg'],
  'originalItemDescription': u'1997-98 Stadium Club One Of A Kind #94 Will Perdue',
@@ -616,8 +557,7 @@ None
  'setName': u'Stadium Club One Of A Kind',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-one-of-a-kind/118-michael-jordan-3138417'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-one-of-a-kind/118-michael-jordan-3138417'],
  'cardNumber': u'#118',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Stadium Club One Of A Kind #118 Michael Jordan',
@@ -626,8 +566,7 @@ None
  'setName': u'Stadium Club One Of A Kind',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-one-of-a-kind/148-jason-caffey-3138447'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-one-of-a-kind/148-jason-caffey-3138447'],
  'cardNumber': u'#148',
  'imageLink': [u'http://img.beckett.com/images/items_stock/185226/3138288/3138447/front.jpg'],
  'originalItemDescription': u'1997-98 Stadium Club One Of A Kind #148 Jason Caffey',
@@ -636,8 +575,7 @@ None
  'setName': u'Stadium Club One Of A Kind',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-one-of-a-kind/149-toni-kukoc-3138448'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-one-of-a-kind/149-toni-kukoc-3138448'],
  'cardNumber': u'#149',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Stadium Club One Of A Kind #149 Toni Kukoc',
@@ -646,8 +584,7 @@ None
  'setName': u'Stadium Club One Of A Kind',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-one-of-a-kind/197-luc-longley-3138496'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-one-of-a-kind/197-luc-longley-3138496'],
  'cardNumber': u'#197',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Stadium Club One Of A Kind #197 Luc Longley',
@@ -656,8 +593,7 @@ None
  'setName': u'Stadium Club One Of A Kind',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/1-scottie-pippen-black-3138545'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/1-scottie-pippen-black-3138545'],
  'cardNumber': u'#1',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Stadium Club Printing Plates #1 Scottie Pippen Black',
@@ -666,8 +602,7 @@ None
  'setName': u'Stadium Club Printing Plates',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/1a-scottie-pippen-cyan-3138546'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/1a-scottie-pippen-cyan-3138546'],
  'cardNumber': u'#1A',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Stadium Club Printing Plates #1A Scottie Pippen Cyan',
@@ -676,8 +611,7 @@ None
  'setName': u'Stadium Club Printing Plates',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/1b-scottie-pippen-magenta-3138547'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/1b-scottie-pippen-magenta-3138547'],
  'cardNumber': u'#1B',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Stadium Club Printing Plates #1B Scottie Pippen Magenta',
@@ -686,8 +620,7 @@ None
  'setName': u'Stadium Club Printing Plates',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/1c-scottie-pippen-yellow-3138548'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/1c-scottie-pippen-yellow-3138548'],
  'cardNumber': u'#1C',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Stadium Club Printing Plates #1C Scottie Pippen Yellow',
@@ -696,8 +629,7 @@ None
  'setName': u'Stadium Club Printing Plates',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/5-bulls---team-of-the-90s-black-3138561'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/5-bulls---team-of-the-90s-black-3138561'],
  'cardNumber': u'#5',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u"1997-98 Stadium Club Printing Plates #5 Bulls - Team of the 90's Black",
@@ -706,8 +638,7 @@ None
  'setName': u'Stadium Club Printing Plates',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/5a-bulls---team-of-the-90s-cyan-3138562'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/5a-bulls---team-of-the-90s-cyan-3138562'],
  'cardNumber': u'#5A',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u"1997-98 Stadium Club Printing Plates #5A Bulls - Team of the 90's Cyan",
@@ -716,8 +647,7 @@ None
  'setName': u'Stadium Club Printing Plates',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/5b-bulls---team-of-the-90s-magenta-3138563'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/5b-bulls---team-of-the-90s-magenta-3138563'],
  'cardNumber': u'#5B',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u"1997-98 Stadium Club Printing Plates #5B Bulls - Team of the 90's Magenta",
@@ -726,8 +656,7 @@ None
  'setName': u'Stadium Club Printing Plates',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/5c-bulls---team-of-the-90s-yellow-3138564'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/5c-bulls---team-of-the-90s-yellow-3138564'],
  'cardNumber': u'#5C',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u"1997-98 Stadium Club Printing Plates #5C Bulls - Team of the 90's Yellow",
@@ -736,8 +665,7 @@ None
  'setName': u'Stadium Club Printing Plates',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/38-ron-harper-black-3138693'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/38-ron-harper-black-3138693'],
  'cardNumber': u'#38',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Stadium Club Printing Plates #38 Ron Harper Black',
@@ -746,8 +674,7 @@ None
  'setName': u'Stadium Club Printing Plates',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/38a-ron-harper-cyan-3138694'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/38a-ron-harper-cyan-3138694'],
  'cardNumber': u'#38A',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Stadium Club Printing Plates #38A Ron Harper Cyan',
@@ -756,8 +683,7 @@ None
  'setName': u'Stadium Club Printing Plates',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/38b-ron-harper-magenta-3138695'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/38b-ron-harper-magenta-3138695'],
  'cardNumber': u'#38B',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Stadium Club Printing Plates #38B Ron Harper Magenta',
@@ -766,8 +692,7 @@ None
  'setName': u'Stadium Club Printing Plates',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/38c-ron-harper-yellow-3138696'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/38c-ron-harper-yellow-3138696'],
  'cardNumber': u'#38C',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Stadium Club Printing Plates #38C Ron Harper Yellow',
@@ -776,8 +701,7 @@ None
  'setName': u'Stadium Club Printing Plates',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/56-dennis-rodman-black-3138765'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/56-dennis-rodman-black-3138765'],
  'cardNumber': u'#56',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Stadium Club Printing Plates #56 Dennis Rodman Black',
@@ -786,8 +710,7 @@ None
  'setName': u'Stadium Club Printing Plates',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/56a-dennis-rodman-cyan-3138766'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/56a-dennis-rodman-cyan-3138766'],
  'cardNumber': u'#56A',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Stadium Club Printing Plates #56A Dennis Rodman Cyan',
@@ -796,8 +719,7 @@ None
  'setName': u'Stadium Club Printing Plates',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/56b-dennis-rodman-magenta-3138767'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/56b-dennis-rodman-magenta-3138767'],
  'cardNumber': u'#56B',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Stadium Club Printing Plates #56B Dennis Rodman Magenta',
@@ -806,8 +728,7 @@ None
  'setName': u'Stadium Club Printing Plates',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/56c-dennis-rodman-yellow-3138768'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/56c-dennis-rodman-yellow-3138768'],
  'cardNumber': u'#56C',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Stadium Club Printing Plates #56C Dennis Rodman Yellow',
@@ -816,8 +737,7 @@ None
  'setName': u'Stadium Club Printing Plates',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/63-steve-kerr-black-3138793'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/63-steve-kerr-black-3138793'],
  'cardNumber': u'#63',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Stadium Club Printing Plates #63 Steve Kerr Black',
@@ -826,8 +746,7 @@ None
  'setName': u'Stadium Club Printing Plates',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/63a-steve-kerr-cyan-3138794'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/63a-steve-kerr-cyan-3138794'],
  'cardNumber': u'#63A',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Stadium Club Printing Plates #63A Steve Kerr Cyan',
@@ -836,8 +755,7 @@ None
  'setName': u'Stadium Club Printing Plates',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/63b-steve-kerr-magenta-3138795'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/63b-steve-kerr-magenta-3138795'],
  'cardNumber': u'#63B',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Stadium Club Printing Plates #63B Steve Kerr Magenta',
@@ -846,8 +764,7 @@ None
  'setName': u'Stadium Club Printing Plates',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/63c-steve-kerr-yellow-3138796'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/63c-steve-kerr-yellow-3138796'],
  'cardNumber': u'#63C',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Stadium Club Printing Plates #63C Steve Kerr Yellow',
@@ -856,8 +773,7 @@ None
  'setName': u'Stadium Club Printing Plates',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/94-will-perdue-black-3138917'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/94-will-perdue-black-3138917'],
  'cardNumber': u'#94',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Stadium Club Printing Plates #94 Will Perdue Black',
@@ -866,8 +782,7 @@ None
  'setName': u'Stadium Club Printing Plates',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/94a-will-perdue-cyan-3138918'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/94a-will-perdue-cyan-3138918'],
  'cardNumber': u'#94A',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Stadium Club Printing Plates #94A Will Perdue Cyan',
@@ -876,8 +791,7 @@ None
  'setName': u'Stadium Club Printing Plates',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/94b-will-perdue-magenta-3138919'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/94b-will-perdue-magenta-3138919'],
  'cardNumber': u'#94B',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Stadium Club Printing Plates #94B Will Perdue Magenta',
@@ -886,8 +800,7 @@ None
  'setName': u'Stadium Club Printing Plates',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/94c-will-perdue-yellow-3138920'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/94c-will-perdue-yellow-3138920'],
  'cardNumber': u'#94C',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Stadium Club Printing Plates #94C Will Perdue Yellow',
@@ -896,8 +809,7 @@ None
  'setName': u'Stadium Club Printing Plates',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/118-michael-jordan-black-3139013'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/118-michael-jordan-black-3139013'],
  'cardNumber': u'#118',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Stadium Club Printing Plates #118 Michael Jordan Black',
@@ -906,8 +818,7 @@ None
  'setName': u'Stadium Club Printing Plates',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/118b-michael-jordan-magenta-3139015'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/118b-michael-jordan-magenta-3139015'],
  'cardNumber': u'#118B',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Stadium Club Printing Plates #118B Michael Jordan Magenta',
@@ -916,8 +827,7 @@ None
  'setName': u'Stadium Club Printing Plates',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/148-jason-caffey-black-3139133'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/148-jason-caffey-black-3139133'],
  'cardNumber': u'#148',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Stadium Club Printing Plates #148 Jason Caffey Black',
@@ -926,8 +836,7 @@ None
  'setName': u'Stadium Club Printing Plates',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/148a-jason-caffey-cyan-3139134'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/148a-jason-caffey-cyan-3139134'],
  'cardNumber': u'#148A',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Stadium Club Printing Plates #148A Jason Caffey Cyan',
@@ -936,8 +845,7 @@ None
  'setName': u'Stadium Club Printing Plates',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/148b-jason-caffey-magenta-3139135'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/148b-jason-caffey-magenta-3139135'],
  'cardNumber': u'#148B',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Stadium Club Printing Plates #148B Jason Caffey Magenta',
@@ -946,8 +854,7 @@ None
  'setName': u'Stadium Club Printing Plates',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/148c-jason-caffey-yellow-3139136'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/148c-jason-caffey-yellow-3139136'],
  'cardNumber': u'#148C',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Stadium Club Printing Plates #148C Jason Caffey Yellow',
@@ -956,8 +863,7 @@ None
  'setName': u'Stadium Club Printing Plates',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/149-toni-kukoc-black-3139137'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/149-toni-kukoc-black-3139137'],
  'cardNumber': u'#149',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Stadium Club Printing Plates #149 Toni Kukoc Black',
@@ -966,8 +872,7 @@ None
  'setName': u'Stadium Club Printing Plates',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/149a-toni-kukoc-cyan-3139138'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/149a-toni-kukoc-cyan-3139138'],
  'cardNumber': u'#149A',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Stadium Club Printing Plates #149A Toni Kukoc Cyan',
@@ -976,8 +881,7 @@ None
  'setName': u'Stadium Club Printing Plates',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/149b-toni-kukoc-magenta-3139139'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/149b-toni-kukoc-magenta-3139139'],
  'cardNumber': u'#149B',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Stadium Club Printing Plates #149B Toni Kukoc Magenta',
@@ -986,8 +890,7 @@ None
  'setName': u'Stadium Club Printing Plates',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/149c-toni-kukoc-yellow-3139140'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/149c-toni-kukoc-yellow-3139140'],
  'cardNumber': u'#149C',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Stadium Club Printing Plates #149C Toni Kukoc Yellow',
@@ -996,8 +899,7 @@ None
  'setName': u'Stadium Club Printing Plates',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/197-luc-longley-black-3139329'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/197-luc-longley-black-3139329'],
  'cardNumber': u'#197',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Stadium Club Printing Plates #197 Luc Longley Black',
@@ -1006,8 +908,7 @@ None
  'setName': u'Stadium Club Printing Plates',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/197a-luc-longley-cyan-3139330'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/197a-luc-longley-cyan-3139330'],
  'cardNumber': u'#197A',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Stadium Club Printing Plates #197A Luc Longley Cyan',
@@ -1016,8 +917,7 @@ None
  'setName': u'Stadium Club Printing Plates',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/197b-luc-longley-magenta-3139331'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/197b-luc-longley-magenta-3139331'],
  'cardNumber': u'#197B',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Stadium Club Printing Plates #197B Luc Longley Magenta',
@@ -1026,8 +926,7 @@ None
  'setName': u'Stadium Club Printing Plates',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/197c-luc-longley-yellow-3139332'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/197c-luc-longley-yellow-3139332'],
  'cardNumber': u'#197C',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Stadium Club Printing Plates #197C Luc Longley Yellow',
@@ -1036,8 +935,7 @@ None
  'setName': u'Stadium Club Printing Plates',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/ultra-masterpieces/9-ron-harper-3135739'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/ultra-masterpieces/9-ron-harper-3135739'],
  'cardNumber': u'#9',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Ultra Masterpieces #9 Ron Harper',
@@ -1046,8 +944,7 @@ None
  'setName': u'Ultra Masterpieces',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/ultra-masterpieces/14-steve-kerr-3135744'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/ultra-masterpieces/14-steve-kerr-3135744'],
  'cardNumber': u'#14',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Ultra Masterpieces #14 Steve Kerr',
@@ -1056,8 +953,7 @@ None
  'setName': u'Ultra Masterpieces',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/ultra-masterpieces/23-michael-jordan-3135753'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/ultra-masterpieces/23-michael-jordan-3135753'],
  'cardNumber': u'#23',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Ultra Masterpieces #23 Michael Jordan',
@@ -1066,8 +962,7 @@ None
  'setName': u'Ultra Masterpieces',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/ultra-masterpieces/26-toni-kukoc-3135756'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/ultra-masterpieces/26-toni-kukoc-3135756'],
  'cardNumber': u'#26',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Ultra Masterpieces #26 Toni Kukoc',
@@ -1076,8 +971,7 @@ None
  'setName': u'Ultra Masterpieces',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/ultra-masterpieces/29-dennis-rodman-3135759'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/ultra-masterpieces/29-dennis-rodman-3135759'],
  'cardNumber': u'#29',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Ultra Masterpieces #29 Dennis Rodman',
@@ -1086,8 +980,7 @@ None
  'setName': u'Ultra Masterpieces',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/ultra-masterpieces/32-luc-longley-3135762'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/ultra-masterpieces/32-luc-longley-3135762'],
  'cardNumber': u'#32',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Ultra Masterpieces #32 Luc Longley',
@@ -1096,8 +989,7 @@ None
  'setName': u'Ultra Masterpieces',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/ultra-masterpieces/55-scottie-pippen-3135785'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/ultra-masterpieces/55-scottie-pippen-3135785'],
  'cardNumber': u'#55',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Ultra Masterpieces #55 Scottie Pippen',
@@ -1106,8 +998,7 @@ None
  'setName': u'Ultra Masterpieces',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/ultra-masterpieces/163-rusty-larue-3135891'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/ultra-masterpieces/163-rusty-larue-3135891'],
  'cardNumber': u'#163',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Ultra Masterpieces #163 Rusty LaRue',
@@ -1116,8 +1007,7 @@ None
  'setName': u'Ultra Masterpieces',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/ultra-masterpieces/209-jud-buechler-3135937'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/ultra-masterpieces/209-jud-buechler-3135937'],
  'cardNumber': u'#209',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Ultra Masterpieces #209 Jud Buechler',
@@ -1126,8 +1016,7 @@ None
  'setName': u'Ultra Masterpieces',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/ultra-masterpieces/232-keith-booth-3135960'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/ultra-masterpieces/232-keith-booth-3135960'],
  'cardNumber': u'#232',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Ultra Masterpieces #232 Keith Booth',
@@ -1136,8 +1025,7 @@ None
  'setName': u'Ultra Masterpieces',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/ultra-masterpieces/259-michael-jordan-gre-3135987'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/ultra-masterpieces/259-michael-jordan-gre-3135987'],
  'cardNumber': u'#259',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Ultra Masterpieces #259 Michael Jordan GRE',
@@ -1147,8 +1035,7 @@ None
  'sport': 'Basketball',
  'subsetName': u'GRE',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/ultra-masterpieces/267-scottie-pippen-gre-3135995'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/ultra-masterpieces/267-scottie-pippen-gre-3135995'],
  'cardNumber': u'#267',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Ultra Masterpieces #267 Scottie Pippen GRE',
@@ -1158,8 +1045,7 @@ None
  'sport': 'Basketball',
  'subsetName': u'GRE',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/ultra-masterpieces/269-dennis-rodman-gre-3135997'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/ultra-masterpieces/269-dennis-rodman-gre-3135997'],
  'cardNumber': u'#269',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Ultra Masterpieces #269 Dennis Rodman GRE',
@@ -1169,8 +1055,7 @@ None
  'sport': 'Basketball',
  'subsetName': u'GRE',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/ultra-platinum-medallion/9-ron-harper-3136023'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/ultra-platinum-medallion/9-ron-harper-3136023'],
  'cardNumber': u'#9',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Ultra Platinum Medallion #9 Ron Harper',
@@ -1179,8 +1064,7 @@ None
  'setName': u'Ultra Platinum Medallion',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/ultra-platinum-medallion/14-steve-kerr-3136028'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/ultra-platinum-medallion/14-steve-kerr-3136028'],
  'cardNumber': u'#14',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Ultra Platinum Medallion #14 Steve Kerr',
@@ -1189,8 +1073,7 @@ None
  'setName': u'Ultra Platinum Medallion',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/ultra-platinum-medallion/23-michael-jordan-3136037'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/ultra-platinum-medallion/23-michael-jordan-3136037'],
  'cardNumber': u'#23',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Ultra Platinum Medallion #23 Michael Jordan',
@@ -1199,8 +1082,7 @@ None
  'setName': u'Ultra Platinum Medallion',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/ultra-platinum-medallion/26-toni-kukoc-3136040'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/ultra-platinum-medallion/26-toni-kukoc-3136040'],
  'cardNumber': u'#26',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Ultra Platinum Medallion #26 Toni Kukoc',
@@ -1209,8 +1091,7 @@ None
  'setName': u'Ultra Platinum Medallion',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/ultra-platinum-medallion/29-dennis-rodman-3136043'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/ultra-platinum-medallion/29-dennis-rodman-3136043'],
  'cardNumber': u'#29',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Ultra Platinum Medallion #29 Dennis Rodman',
@@ -1219,8 +1100,7 @@ None
  'setName': u'Ultra Platinum Medallion',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/ultra-platinum-medallion/32-luc-longley-3136046'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/ultra-platinum-medallion/32-luc-longley-3136046'],
  'cardNumber': u'#32',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Ultra Platinum Medallion #32 Luc Longley',
@@ -1229,8 +1109,7 @@ None
  'setName': u'Ultra Platinum Medallion',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/ultra-platinum-medallion/55-scottie-pippen-3136069'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/ultra-platinum-medallion/55-scottie-pippen-3136069'],
  'cardNumber': u'#55',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Ultra Platinum Medallion #55 Scottie Pippen',
@@ -1239,8 +1118,7 @@ None
  'setName': u'Ultra Platinum Medallion',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/ultra-platinum-medallion/163-rusty-larue-3136175'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/ultra-platinum-medallion/163-rusty-larue-3136175'],
  'cardNumber': u'#163',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Ultra Platinum Medallion #163 Rusty LaRue',
@@ -1249,8 +1127,7 @@ None
  'setName': u'Ultra Platinum Medallion',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/ultra-platinum-medallion/209-jud-buechler-3136221'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/ultra-platinum-medallion/209-jud-buechler-3136221'],
  'cardNumber': u'#209',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Ultra Platinum Medallion #209 Jud Buechler',
@@ -1259,8 +1136,7 @@ None
  'setName': u'Ultra Platinum Medallion',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/ultra-platinum-medallion/232-keith-booth-3136244'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/ultra-platinum-medallion/232-keith-booth-3136244'],
  'cardNumber': u'#232',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Ultra Platinum Medallion #232 Keith Booth',
@@ -1269,8 +1145,7 @@ None
  'setName': u'Ultra Platinum Medallion',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/ultra-platinum-medallion/267-scottie-pippen-gre-3136279'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/ultra-platinum-medallion/267-scottie-pippen-gre-3136279'],
  'cardNumber': u'#267',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Ultra Platinum Medallion #267 Scottie Pippen GRE',
@@ -1280,8 +1155,7 @@ None
  'sport': 'Basketball',
  'subsetName': u'GRE',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/ultra-platinum-medallion/269-dennis-rodman-gre-3136281'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/ultra-platinum-medallion/269-dennis-rodman-gre-3136281'],
  'cardNumber': u'#269',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Ultra Platinum Medallion #269 Dennis Rodman GRE',
@@ -1291,8 +1165,7 @@ None
  'sport': 'Basketball',
  'subsetName': u'GRE',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/z-force-rave/23-michael-jordan-3133047'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/z-force-rave/23-michael-jordan-3133047'],
  'cardNumber': u'#23',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Z-Force Rave #23 Michael Jordan',
@@ -1301,8 +1174,7 @@ None
  'setName': u'Z-Force Rave',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/z-force-rave/49-toni-kukoc-3133073'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/z-force-rave/49-toni-kukoc-3133073'],
  'cardNumber': u'#49',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Z-Force Rave #49 Toni Kukoc',
@@ -1311,8 +1183,7 @@ None
  'setName': u'Z-Force Rave',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/z-force-rave/66-scottie-pippen-3133090'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/z-force-rave/66-scottie-pippen-3133090'],
  'cardNumber': u'#66',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Z-Force Rave #66 Scottie Pippen',
@@ -1321,8 +1192,7 @@ None
  'setName': u'Z-Force Rave',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/z-force-rave/91-dennis-rodman-3133115'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/z-force-rave/91-dennis-rodman-3133115'],
  'cardNumber': u'#91',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Z-Force Rave #91 Dennis Rodman',
@@ -1331,8 +1201,7 @@ None
  'setName': u'Z-Force Rave',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/z-force-rave/191-scottie-pippen-zup-3133214'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/z-force-rave/191-scottie-pippen-zup-3133214'],
  'cardNumber': u'#191',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Z-Force Rave #191 Scottie Pippen ZUP',
@@ -1342,8 +1211,7 @@ None
  'sport': 'Basketball',
  'subsetName': u'ZUP',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/z-force-rave/192-dennis-rodman-zup-3133215'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/z-force-rave/192-dennis-rodman-zup-3133215'],
  'cardNumber': u'#192',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Z-Force Rave #192 Dennis Rodman ZUP',
@@ -1353,8 +1221,7 @@ None
  'sport': 'Basketball',
  'subsetName': u'ZUP',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/z-force-super-rave/191-scottie-pippen-zup-3133326'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/z-force-super-rave/191-scottie-pippen-zup-3133326'],
  'cardNumber': u'#191',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Z-Force Super Rave #191 Scottie Pippen ZUP',
@@ -1364,8 +1231,7 @@ None
  'sport': 'Basketball',
  'subsetName': u'ZUP',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/z-force-super-rave/192-dennis-rodman-zup-3133327'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/z-force-super-rave/192-dennis-rodman-zup-3133327'],
  'cardNumber': u'#192',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Z-Force Super Rave #192 Dennis Rodman ZUP',
@@ -1375,8 +1241,7 @@ None
  'sport': 'Basketball',
  'subsetName': u'ZUP',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'autograph': 1,
+ 'year': u'1997-98'}{'autograph': 1,
  'beckettLink': [u'http://www.beckett.com/basketball/1997-98/sp-authentic-authentics/mj1-michael-jordansigned-jersey50-3140099'],
  'cardNumber': u'#MJ1',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
@@ -1386,8 +1251,7 @@ None
  'setName': u'SP Authentic Authentics',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'autograph': 1,
+ 'year': u'1997-98'}{'autograph': 1,
  'beckettLink': [u'http://www.beckett.com/basketball/1997-98/sp-authentic-authentics/mj2-michael-jordansigned-16x20-photo100-3140100'],
  'cardNumber': u'#MJ2',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
@@ -1397,8 +1261,7 @@ None
  'setName': u'SP Authentic Authentics',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/sp-authentic-authentics/mj3-michael-jordanunsigned-2-card-set500-3140101'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/sp-authentic-authentics/mj3-michael-jordanunsigned-2-card-set500-3140101'],
  'cardNumber': u'#MJ3',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 SP Authentic Authentics #MJ3 Michael Jordan/Unsigned 2-card set/500',
@@ -1407,8 +1270,7 @@ None
  'setName': u'SP Authentic Authentics',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/sp-authentic-authentics/mj4-michael-jordanunsigned-8x10-photo400-3140102'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/sp-authentic-authentics/mj4-michael-jordanunsigned-8x10-photo400-3140102'],
  'cardNumber': u'#MJ4',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 SP Authentic Authentics #MJ4 Michael Jordan/Unsigned 8x10 Photo/400',
@@ -1417,8 +1279,7 @@ None
  'setName': u'SP Authentic Authentics',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/sp-authentic-authentics/mj5-michael-jordanunsigned-gold-card250-3140103'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/sp-authentic-authentics/mj5-michael-jordanunsigned-gold-card250-3140103'],
  'cardNumber': u'#MJ5',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 SP Authentic Authentics #MJ5 Michael Jordan/Unsigned Gold Card/250',
@@ -1427,8 +1288,7 @@ None
  'setName': u'SP Authentic Authentics',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/sp-authentic-authentics/mj6-michael-jordanunsigned-game-night-card100-3140104'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/sp-authentic-authentics/mj6-michael-jordanunsigned-game-night-card100-3140104'],
  'cardNumber': u'#MJ6',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 SP Authentic Authentics #MJ6 Michael Jordan/Unsigned Game Night Card/100',
@@ -1437,8 +1297,7 @@ None
  'setName': u'SP Authentic Authentics',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/sp-authentic-authentics/mj6b-michael-jordanunsigned-game-night-card100-3140105'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/sp-authentic-authentics/mj6b-michael-jordanunsigned-game-night-card100-3140105'],
  'cardNumber': u'#MJ6B',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 SP Authentic Authentics #MJ6B Michael Jordan/Unsigned Game Night Card/100',
@@ -1447,8 +1306,7 @@ None
  'setName': u'SP Authentic Authentics',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/sp-authentic-authentics/mj6c-michael-jordanunsigned-game-night-card100-3140106'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/sp-authentic-authentics/mj6c-michael-jordanunsigned-game-night-card100-3140106'],
  'cardNumber': u'#MJ6C',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 SP Authentic Authentics #MJ6C Michael Jordan/Unsigned Game Night Card/100',
@@ -1457,8 +1315,7 @@ None
  'setName': u'SP Authentic Authentics',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/sp-authentic-authentics/mj6d-michael-jordanunsigned-game-night-card100-3140107'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/sp-authentic-authentics/mj6d-michael-jordanunsigned-game-night-card100-3140107'],
  'cardNumber': u'#MJ6D',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 SP Authentic Authentics #MJ6D Michael Jordan/Unsigned Game Night Card/100',
@@ -1467,8 +1324,7 @@ None
  'setName': u'SP Authentic Authentics',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/sp-authentic-authentics/mj6e-michael-jordanunsigned-game-night-card100-3140108'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/sp-authentic-authentics/mj6e-michael-jordanunsigned-game-night-card100-3140108'],
  'cardNumber': u'#MJ6E',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 SP Authentic Authentics #MJ6E Michael Jordan/Unsigned Game Night Card/100',
@@ -1477,8 +1333,7 @@ None
  'setName': u'SP Authentic Authentics',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/sp-authentic-authentics/mj7-michael-jordanunsigned-blow-up-poster200-3140109'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/sp-authentic-authentics/mj7-michael-jordanunsigned-blow-up-poster200-3140109'],
  'cardNumber': u'#MJ7',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 SP Authentic Authentics #MJ7 Michael Jordan/Unsigned Blow-up Poster/200',
@@ -1487,8 +1342,7 @@ None
  'setName': u'SP Authentic Authentics',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'autograph': 1,
+ 'year': u'1997-98'}{'autograph': 1,
  'beckettLink': [u'http://www.beckett.com/basketball/1997-98/sp-authentic-authentics/mj8-michael-jordansigned-game-night-card23-3140110'],
  'cardNumber': u'#MJ8',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
@@ -1498,8 +1352,7 @@ None
  'setName': u'SP Authentic Authentics',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/upper-deck-great-eight/g5-michael-jordan-3132411'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/upper-deck-great-eight/g5-michael-jordan-3132411'],
  'cardNumber': u'#G5',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Upper Deck Great Eight #G5 Michael Jordan',
@@ -1508,8 +1361,7 @@ None
  'setName': u'Upper Deck Great Eight',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/upper-deck-high-dimensions/d9-dennis-rodman-3132431'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/upper-deck-high-dimensions/d9-dennis-rodman-3132431'],
  'cardNumber': u'#D9',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Upper Deck High Dimensions #D9 Dennis Rodman',
@@ -1518,8 +1370,7 @@ None
  'setName': u'Upper Deck High Dimensions',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/upper-deck-high-dimensions/d17-scottie-pippen-3132439'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/upper-deck-high-dimensions/d17-scottie-pippen-3132439'],
  'cardNumber': u'#D17',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Upper Deck High Dimensions #D17 Scottie Pippen',
@@ -1528,8 +1379,7 @@ None
  'setName': u'Upper Deck High Dimensions',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/upper-deck-high-dimensions/d23-michael-jordan-3132445'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/upper-deck-high-dimensions/d23-michael-jordan-3132445'],
  'cardNumber': u'#D23',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Upper Deck High Dimensions #D23 Michael Jordan',
@@ -1538,8 +1388,7 @@ None
  'setName': u'Upper Deck High Dimensions',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/flair-showcase-masterpieces-row-3/1-michael-jordan-3148900'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/flair-showcase-masterpieces-row-3/1-michael-jordan-3148900'],
  'cardNumber': u'#1',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Flair Showcase Masterpieces Row 3 #1 Michael Jordan',
@@ -1548,8 +1397,7 @@ None
  'setName': u'Flair Showcase Masterpieces Row 3',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/flair-showcase-masterpieces-row-2/1-michael-jordan-3148814'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/flair-showcase-masterpieces-row-2/1-michael-jordan-3148814'],
  'cardNumber': u'#1',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Flair Showcase Masterpieces Row 2 #1 Michael Jordan',
@@ -1558,8 +1406,7 @@ None
  'setName': u'Flair Showcase Masterpieces Row 2',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/flair-showcase-masterpieces-row-0/1-michael-jordan-3148644'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/flair-showcase-masterpieces-row-0/1-michael-jordan-3148644'],
  'cardNumber': u'#1',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Flair Showcase Masterpieces Row 0 #1 Michael Jordan',
@@ -1568,8 +1415,7 @@ None
  'setName': u'Flair Showcase Masterpieces Row 0',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/hoops-high-voltage-500/hv14-michael-jordan-3142303'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/hoops-high-voltage-500/hv14-michael-jordan-3142303'],
  'cardNumber': u'#HV14',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Hoops High Voltage 500 #HV14 Michael Jordan',
@@ -1578,8 +1424,7 @@ None
  'setName': u'Hoops High Voltage 500',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/hoops-high-voltage-500/hv16-dennis-rodman-3142305'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/hoops-high-voltage-500/hv16-dennis-rodman-3142305'],
  'cardNumber': u'#HV16',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Hoops High Voltage 500 #HV16 Dennis Rodman',
@@ -1588,8 +1433,7 @@ None
  'setName': u'Hoops High Voltage 500',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/hoops-high-voltage-500/hv17-scottie-pippen-3142306'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/hoops-high-voltage-500/hv17-scottie-pippen-3142306'],
  'cardNumber': u'#HV17',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Hoops High Voltage 500 #HV17 Scottie Pippen',
@@ -1598,8 +1442,7 @@ None
  'setName': u'Hoops High Voltage 500',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/metal-universe-precious-metal-gems-emerald/18-luc-longley-7055466'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/metal-universe-precious-metal-gems-emerald/18-luc-longley-7055466'],
  'cardNumber': u'#18',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Metal Universe Precious Metal Gems Emerald #18 Luc Longley',
@@ -1608,8 +1451,7 @@ None
  'setName': u'Metal Universe Precious Metal Gems Emerald',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/metal-universe-precious-metal-gems-emerald/23-michael-jordan-7055471'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/metal-universe-precious-metal-gems-emerald/23-michael-jordan-7055471'],
  'cardNumber': u'#23',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Metal Universe Precious Metal Gems Emerald #23 Michael Jordan',
@@ -1618,8 +1460,7 @@ None
  'setName': u'Metal Universe Precious Metal Gems Emerald',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/metal-universe-precious-metal-gems-emerald/58-steve-kerr-7055507'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/metal-universe-precious-metal-gems-emerald/58-steve-kerr-7055507'],
  'cardNumber': u'#58',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Metal Universe Precious Metal Gems Emerald #58 Steve Kerr',
@@ -1628,8 +1469,7 @@ None
  'setName': u'Metal Universe Precious Metal Gems Emerald',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/metal-universe-precious-metal-gems-emerald/61-toni-kukoc-7055510'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/metal-universe-precious-metal-gems-emerald/61-toni-kukoc-7055510'],
  'cardNumber': u'#61',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Metal Universe Precious Metal Gems Emerald #61 Toni Kukoc',
@@ -1638,8 +1478,7 @@ None
  'setName': u'Metal Universe Precious Metal Gems Emerald',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/metal-universe-precious-metal-gems-emerald/83-scottie-pippen-7055532'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/metal-universe-precious-metal-gems-emerald/83-scottie-pippen-7055532'],
  'cardNumber': u'#83',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Metal Universe Precious Metal Gems Emerald #83 Scottie Pippen',
@@ -1648,8 +1487,7 @@ None
  'setName': u'Metal Universe Precious Metal Gems Emerald',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/metal-universe-precious-metal-gems-emerald/107-dennis-rodman-7055556'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/metal-universe-precious-metal-gems-emerald/107-dennis-rodman-7055556'],
  'cardNumber': u'#107',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Metal Universe Precious Metal Gems Emerald #107 Dennis Rodman',
@@ -1658,8 +1496,7 @@ None
  'setName': u'Metal Universe Precious Metal Gems Emerald',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/sp-authentic-profiles-3/p28-scottie-pippen-3140309'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/sp-authentic-profiles-3/p28-scottie-pippen-3140309'],
  'cardNumber': u'#P28',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 SP Authentic Profiles 3 #P28 Scottie Pippen',
@@ -1668,8 +1505,7 @@ None
  'setName': u'SP Authentic Profiles 3',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/sp-authentic-profiles-3/p39-dennis-rodman-3140320'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/sp-authentic-profiles-3/p39-dennis-rodman-3140320'],
  'cardNumber': u'#P39',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 SP Authentic Profiles 3 #P39 Dennis Rodman',
@@ -1678,8 +1514,7 @@ None
  'setName': u'SP Authentic Profiles 3',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/upper-deck-diamond-dimensions/d9-dennis-rodman-3132469'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/upper-deck-diamond-dimensions/d9-dennis-rodman-3132469'],
  'cardNumber': u'#D9',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Upper Deck Diamond Dimensions #D9 Dennis Rodman',
@@ -1688,8 +1523,7 @@ None
  'setName': u'Upper Deck Diamond Dimensions',
  'sport': 'Basketball',
  'team': 'Chicago Bulls',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/upper-deck-diamond-dimensions/d17-scottie-pippen-3132477'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/upper-deck-diamond-dimensions/d17-scottie-pippen-3132477'],
  'cardNumber': u'#D17',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Upper Deck Diamond Dimensions #D17 Scottie Pippen',

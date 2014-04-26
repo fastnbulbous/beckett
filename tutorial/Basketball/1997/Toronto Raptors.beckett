@@ -1,5 +1,4 @@
-None
-{'autograph': 1,
+None{'autograph': 1,
  'beckettLink': [u'http://www.beckett.com/basketball/1997/spx-promotion-autographs/2-damon-stoudamire-3128612'],
  'cardNumber': u'#2',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
@@ -9,8 +8,7 @@ None
  'setName': u'SPx ProMotion Autographs',
  'sport': 'Basketball',
  'team': 'Toronto Raptors',
- 'year': u'1997'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/e-x2001-essential-credentials-future/10-marcus-camby71-3144596'],
+ 'year': u'1997'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/e-x2001-essential-credentials-future/10-marcus-camby71-3144596'],
  'cardNumber': u'#10',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 E-X2001 Essential Credentials Future #10 Marcus Camby/71',
@@ -19,8 +17,7 @@ None
  'setName': u'E-X2001 Essential Credentials Future',
  'sport': 'Basketball',
  'team': 'Toronto Raptors',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/e-x2001-essential-credentials-future/79-tracy-mcgrady2-3144665'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/e-x2001-essential-credentials-future/79-tracy-mcgrady2-3144665'],
  'cardNumber': u'#79',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 E-X2001 Essential Credentials Future #79 Tracy McGrady/2',
@@ -29,8 +26,7 @@ None
  'setName': u'E-X2001 Essential Credentials Future',
  'sport': 'Basketball',
  'team': 'Toronto Raptors',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/e-x2001-essential-credentials-now/10-marcus-camby10-3144683'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/e-x2001-essential-credentials-now/10-marcus-camby10-3144683'],
  'cardNumber': u'#10',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 E-X2001 Essential Credentials Now #10 Marcus Camby/10',
@@ -39,8 +35,7 @@ None
  'setName': u'E-X2001 Essential Credentials Now',
  'sport': 'Basketball',
  'team': 'Toronto Raptors',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/e-x2001-essential-credentials-now/79-tracy-mcgrady79-3144752'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/e-x2001-essential-credentials-now/79-tracy-mcgrady79-3144752'],
  'cardNumber': u'#79',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 E-X2001 Essential Credentials Now #79 Tracy McGrady/79',
@@ -49,8 +44,7 @@ None
  'setName': u'E-X2001 Essential Credentials Now',
  'sport': 'Basketball',
  'team': 'Toronto Raptors',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/finest-embossed-refractors/159-marcus-camby-g-3145367'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/finest-embossed-refractors/159-marcus-camby-g-3145367'],
  'cardNumber': u'#159',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Finest Embossed Refractors #159 Marcus Camby G',
@@ -60,8 +54,7 @@ None
  'sport': 'Basketball',
  'subsetName': u'G',
  'team': 'Toronto Raptors',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/finest-embossed-refractors/294-tracy-mcgrady-s-3145402'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/finest-embossed-refractors/294-tracy-mcgrady-s-3145402'],
  'cardNumber': u'#294',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Finest Embossed Refractors #294 Tracy McGrady S',
@@ -71,8 +64,7 @@ None
  'sport': 'Basketball',
  'subsetName': u'S',
  'team': 'Toronto Raptors',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/finest-embossed-refractors/296-marcus-camby-s-3145404'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/finest-embossed-refractors/296-marcus-camby-s-3145404'],
  'cardNumber': u'#296',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Finest Embossed Refractors #296 Marcus Camby S',
@@ -82,8 +74,7 @@ None
  'sport': 'Basketball',
  'subsetName': u'S',
  'team': 'Toronto Raptors',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/finest-embossed-refractors/316-tracy-mcgrady-g-3145424'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/finest-embossed-refractors/316-tracy-mcgrady-g-3145424'],
  'cardNumber': u'#316',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Finest Embossed Refractors #316 Tracy McGrady G',
@@ -93,8 +84,7 @@ None
  'sport': 'Basketball',
  'subsetName': u'G',
  'team': 'Toronto Raptors',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/finest-refractors/159-marcus-camby-g-3145625'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/finest-refractors/159-marcus-camby-g-3145625'],
  'cardNumber': u'#159',
  'imageLink': [u'http://img.beckett.com/images/items_stock/185226/3145435/3145625/front.jpg'],
  'originalItemDescription': u'1997-98 Finest Refractors #159 Marcus Camby G',
@@ -104,8 +94,7 @@ None
  'sport': 'Basketball',
  'subsetName': u'G',
  'team': 'Toronto Raptors',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/finest-refractors/294-tracy-mcgrady-s-3145760'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/finest-refractors/294-tracy-mcgrady-s-3145760'],
  'cardNumber': u'#294',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Finest Refractors #294 Tracy McGrady S',
@@ -115,8 +104,7 @@ None
  'sport': 'Basketball',
  'subsetName': u'S',
  'team': 'Toronto Raptors',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/finest-refractors/296-marcus-camby-s-3145762'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/finest-refractors/296-marcus-camby-s-3145762'],
  'cardNumber': u'#296',
  'imageLink': [u'http://img.beckett.com/images/items_stock/185226/3145435/3145762/front.jpg'],
  'originalItemDescription': u'1997-98 Finest Refractors #296 Marcus Camby S',
@@ -126,8 +114,7 @@ None
  'sport': 'Basketball',
  'subsetName': u'S',
  'team': 'Toronto Raptors',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/finest-refractors/316-tracy-mcgrady-g-3145782'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/finest-refractors/316-tracy-mcgrady-g-3145782'],
  'cardNumber': u'#316',
  'imageLink': [u'http://img.beckett.com/images/items_stock/185226/3145435/3145782/front.jpg'],
  'originalItemDescription': u'1997-98 Finest Refractors #316 Tracy McGrady G',
@@ -137,8 +124,7 @@ None
  'sport': 'Basketball',
  'subsetName': u'G',
  'team': 'Toronto Raptors',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/flair-showcase-row-0/19-marcus-camby-3146117'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/flair-showcase-row-0/19-marcus-camby-3146117'],
  'cardNumber': u'#19',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Flair Showcase Row 0 #19 Marcus Camby',
@@ -147,8 +133,7 @@ None
  'setName': u'Flair Showcase Row 0',
  'sport': 'Basketball',
  'team': 'Toronto Raptors',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/flair-showcase-row-0/21-tracy-mcgrady-3146119'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/flair-showcase-row-0/21-tracy-mcgrady-3146119'],
  'cardNumber': u'#21',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Flair Showcase Row 0 #21 Tracy McGrady',
@@ -157,8 +142,7 @@ None
  'setName': u'Flair Showcase Row 0',
  'sport': 'Basketball',
  'team': 'Toronto Raptors',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/flair-showcase-legacy-collection-row-3/19-marcus-camby-3148577'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/flair-showcase-legacy-collection-row-3/19-marcus-camby-3148577'],
  'cardNumber': u'#19',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Flair Showcase Legacy Collection Row 3 #19 Marcus Camby',
@@ -167,8 +151,7 @@ None
  'setName': u'Flair Showcase Legacy Collection Row 3',
  'sport': 'Basketball',
  'team': 'Toronto Raptors',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/flair-showcase-legacy-collection-row-3/21-tracy-mcgrady-3148579'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/flair-showcase-legacy-collection-row-3/21-tracy-mcgrady-3148579'],
  'cardNumber': u'#21',
  'imageLink': [u'http://img.beckett.com/images/items_stock/185226/3148549/3148579/front.jpg'],
  'originalItemDescription': u'1997-98 Flair Showcase Legacy Collection Row 3 #21 Tracy McGrady',
@@ -177,8 +160,7 @@ None
  'setName': u'Flair Showcase Legacy Collection Row 3',
  'sport': 'Basketball',
  'team': 'Toronto Raptors',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/metal-universe-precious-metal-gems/42-tracy-mcgrady-3142634'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/metal-universe-precious-metal-gems/42-tracy-mcgrady-3142634'],
  'cardNumber': u'#42',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Metal Universe Precious Metal Gems #42 Tracy McGrady',
@@ -187,8 +169,7 @@ None
  'setName': u'Metal Universe Precious Metal Gems',
  'sport': 'Basketball',
  'team': 'Toronto Raptors',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/metal-universe-precious-metal-gems/84-marcus-camby-3142676'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/metal-universe-precious-metal-gems/84-marcus-camby-3142676'],
  'cardNumber': u'#84',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Metal Universe Precious Metal Gems #84 Marcus Camby',
@@ -197,8 +178,7 @@ None
  'setName': u'Metal Universe Precious Metal Gems',
  'sport': 'Basketball',
  'team': 'Toronto Raptors',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/metal-universe-championship-precious-metal-gems/36-tracy-mcgrady-3140711'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/metal-universe-championship-precious-metal-gems/36-tracy-mcgrady-3140711'],
  'cardNumber': u'#36',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Metal Universe Championship Precious Metal Gems #36 Tracy McGrady',
@@ -207,8 +187,7 @@ None
  'setName': u'Metal Universe Championship Precious Metal Gems',
  'sport': 'Basketball',
  'team': 'Toronto Raptors',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/metal-universe-championship-precious-metal-gems/48-marcus-camby-3140723'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/metal-universe-championship-precious-metal-gems/48-marcus-camby-3140723'],
  'cardNumber': u'#48',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Metal Universe Championship Precious Metal Gems #48 Marcus Camby',
@@ -217,8 +196,7 @@ None
  'setName': u'Metal Universe Championship Precious Metal Gems',
  'sport': 'Basketball',
  'team': 'Toronto Raptors',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/skybox-premium-star-rubies/79-tracy-mcgrady-3141250'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/skybox-premium-star-rubies/79-tracy-mcgrady-3141250'],
  'cardNumber': u'#79',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 SkyBox Premium Star Rubies #79 Tracy McGrady',
@@ -227,8 +205,7 @@ None
  'setName': u'SkyBox Premium Star Rubies',
  'sport': 'Basketball',
  'team': 'Toronto Raptors',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/skybox-premium-star-rubies/88-marcus-camby-3141259'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/skybox-premium-star-rubies/88-marcus-camby-3141259'],
  'cardNumber': u'#88',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 SkyBox Premium Star Rubies #88 Marcus Camby',
@@ -237,8 +214,7 @@ None
  'setName': u'SkyBox Premium Star Rubies',
  'sport': 'Basketball',
  'team': 'Toronto Raptors',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/skybox-premium-star-rubies/189-shawn-respert-3141358'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/skybox-premium-star-rubies/189-shawn-respert-3141358'],
  'cardNumber': u'#189',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 SkyBox Premium Star Rubies #189 Shawn Respert',
@@ -247,8 +223,7 @@ None
  'setName': u'SkyBox Premium Star Rubies',
  'sport': 'Basketball',
  'team': 'Toronto Raptors',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/skybox-premium-star-rubies/227-marcus-camby-ts-3141396'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/skybox-premium-star-rubies/227-marcus-camby-ts-3141396'],
  'cardNumber': u'#227',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 SkyBox Premium Star Rubies #227 Marcus Camby TS',
@@ -258,8 +233,7 @@ None
  'sport': 'Basketball',
  'subsetName': u'TS',
  'team': 'Toronto Raptors',
- 'year': u'1997-98'}
-{'autograph': 1,
+ 'year': u'1997-98'}{'autograph': 1,
  'beckettLink': [u'http://www.beckett.com/basketball/1997-98/skybox-premium-autographics-century-marks/17-marcus-camby-3141599'],
  'cardNumber': u'#17',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
@@ -269,8 +243,7 @@ None
  'setName': u'SkyBox Premium Autographics Century Marks',
  'sport': 'Basketball',
  'team': 'Toronto Raptors',
- 'year': u'1997-98'}
-{'autograph': 1,
+ 'year': u'1997-98'}{'autograph': 1,
  'beckettLink': [u'http://www.beckett.com/basketball/1997-98/skybox-premium-autographics-century-marks/59-popeye-jones-3141641'],
  'cardNumber': u'#59',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
@@ -280,8 +253,7 @@ None
  'setName': u'SkyBox Premium Autographics Century Marks',
  'sport': 'Basketball',
  'team': 'Toronto Raptors',
- 'year': u'1997-98'}
-{'autograph': 1,
+ 'year': u'1997-98'}{'autograph': 1,
  'beckettLink': [u'http://www.beckett.com/basketball/1997-98/skybox-premium-autographics-century-marks/71-tracy-mcgrady-3141653'],
  'cardNumber': u'#71',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
@@ -291,8 +263,7 @@ None
  'setName': u'SkyBox Premium Autographics Century Marks',
  'sport': 'Basketball',
  'team': 'Toronto Raptors',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/spx-grand-finale/41-marcus-camby-3137725'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/spx-grand-finale/41-marcus-camby-3137725'],
  'cardNumber': u'#41',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 SPx Grand Finale #41 Marcus Camby',
@@ -301,8 +272,7 @@ None
  'setName': u'SPx Grand Finale',
  'sport': 'Basketball',
  'team': 'Toronto Raptors',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/spx-grand-finale/42-tracy-mcgrady-3137726'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/spx-grand-finale/42-tracy-mcgrady-3137726'],
  'cardNumber': u'#42',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 SPx Grand Finale #42 Tracy McGrady',
@@ -311,8 +281,7 @@ None
  'setName': u'SPx Grand Finale',
  'sport': 'Basketball',
  'team': 'Toronto Raptors',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-one-of-a-kind/12-popeye-jones-3138311'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-one-of-a-kind/12-popeye-jones-3138311'],
  'cardNumber': u'#12',
  'imageLink': [u'http://img.beckett.com/images/items_stock/185226/3138288/3138311/front.jpg'],
  'originalItemDescription': u'1997-98 Stadium Club One Of A Kind #12 Popeye Jones',
@@ -321,8 +290,7 @@ None
  'setName': u'Stadium Club One Of A Kind',
  'sport': 'Basketball',
  'team': 'Toronto Raptors',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-one-of-a-kind/29-doug-christie-3138328'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-one-of-a-kind/29-doug-christie-3138328'],
  'cardNumber': u'#29',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Stadium Club One Of A Kind #29 Doug Christie',
@@ -331,8 +299,7 @@ None
  'setName': u'Stadium Club One Of A Kind',
  'sport': 'Basketball',
  'team': 'Toronto Raptors',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-one-of-a-kind/117-shawn-respert-3138416'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-one-of-a-kind/117-shawn-respert-3138416'],
  'cardNumber': u'#117',
  'imageLink': [u'http://img.beckett.com/images/items_stock/185226/3138288/3138416/front.jpg'],
  'originalItemDescription': u'1997-98 Stadium Club One Of A Kind #117 Shawn Respert',
@@ -341,8 +308,7 @@ None
  'setName': u'Stadium Club One Of A Kind',
  'sport': 'Basketball',
  'team': 'Toronto Raptors',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-one-of-a-kind/176-carlos-rogers-3138475'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-one-of-a-kind/176-carlos-rogers-3138475'],
  'cardNumber': u'#176',
  'imageLink': [u'http://img.beckett.com/images/items_stock/185226/3138288/3138475/front.jpg'],
  'originalItemDescription': u'1997-98 Stadium Club One Of A Kind #176 Carlos Rogers',
@@ -351,8 +317,7 @@ None
  'setName': u'Stadium Club One Of A Kind',
  'sport': 'Basketball',
  'team': 'Toronto Raptors',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-one-of-a-kind/177-marcus-camby-3138476'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-one-of-a-kind/177-marcus-camby-3138476'],
  'cardNumber': u'#177',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Stadium Club One Of A Kind #177 Marcus Camby',
@@ -361,8 +326,7 @@ None
  'setName': u'Stadium Club One Of A Kind',
  'sport': 'Basketball',
  'team': 'Toronto Raptors',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-one-of-a-kind/217-tracy-mcgrady-3138516'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-one-of-a-kind/217-tracy-mcgrady-3138516'],
  'cardNumber': u'#217',
  'imageLink': [u'http://img.beckett.com/images/items_stock/185226/3138288/3138516/front.jpg'],
  'originalItemDescription': u'1997-98 Stadium Club One Of A Kind #217 Tracy McGrady',
@@ -371,8 +335,7 @@ None
  'setName': u'Stadium Club One Of A Kind',
  'sport': 'Basketball',
  'team': 'Toronto Raptors',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/12-popeye-jones-black-3138589'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/12-popeye-jones-black-3138589'],
  'cardNumber': u'#12',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Stadium Club Printing Plates #12 Popeye Jones Black',
@@ -381,8 +344,7 @@ None
  'setName': u'Stadium Club Printing Plates',
  'sport': 'Basketball',
  'team': 'Toronto Raptors',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/12a-popeye-jones-cyan-3138590'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/12a-popeye-jones-cyan-3138590'],
  'cardNumber': u'#12A',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Stadium Club Printing Plates #12A Popeye Jones Cyan',
@@ -391,8 +353,7 @@ None
  'setName': u'Stadium Club Printing Plates',
  'sport': 'Basketball',
  'team': 'Toronto Raptors',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/12b-popeye-jones-magenta-3138591'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/12b-popeye-jones-magenta-3138591'],
  'cardNumber': u'#12B',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Stadium Club Printing Plates #12B Popeye Jones Magenta',
@@ -401,8 +362,7 @@ None
  'setName': u'Stadium Club Printing Plates',
  'sport': 'Basketball',
  'team': 'Toronto Raptors',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/12c-popeye-jones-yellow-3138592'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/12c-popeye-jones-yellow-3138592'],
  'cardNumber': u'#12C',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Stadium Club Printing Plates #12C Popeye Jones Yellow',
@@ -411,8 +371,7 @@ None
  'setName': u'Stadium Club Printing Plates',
  'sport': 'Basketball',
  'team': 'Toronto Raptors',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/29-doug-christie-black-3138657'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/29-doug-christie-black-3138657'],
  'cardNumber': u'#29',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Stadium Club Printing Plates #29 Doug Christie Black',
@@ -421,8 +380,7 @@ None
  'setName': u'Stadium Club Printing Plates',
  'sport': 'Basketball',
  'team': 'Toronto Raptors',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/29a-doug-christie-cyan-3138658'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/29a-doug-christie-cyan-3138658'],
  'cardNumber': u'#29A',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Stadium Club Printing Plates #29A Doug Christie Cyan',
@@ -431,8 +389,7 @@ None
  'setName': u'Stadium Club Printing Plates',
  'sport': 'Basketball',
  'team': 'Toronto Raptors',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/29b-doug-christie-magenta-3138659'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/29b-doug-christie-magenta-3138659'],
  'cardNumber': u'#29B',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Stadium Club Printing Plates #29B Doug Christie Magenta',
@@ -441,8 +398,7 @@ None
  'setName': u'Stadium Club Printing Plates',
  'sport': 'Basketball',
  'team': 'Toronto Raptors',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/29c-doug-christie-yellow-3138660'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/29c-doug-christie-yellow-3138660'],
  'cardNumber': u'#29C',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Stadium Club Printing Plates #29C Doug Christie Yellow',
@@ -451,8 +407,7 @@ None
  'setName': u'Stadium Club Printing Plates',
  'sport': 'Basketball',
  'team': 'Toronto Raptors',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/117-shawn-respert-black-3139009'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/117-shawn-respert-black-3139009'],
  'cardNumber': u'#117',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Stadium Club Printing Plates #117 Shawn Respert Black',
@@ -461,8 +416,7 @@ None
  'setName': u'Stadium Club Printing Plates',
  'sport': 'Basketball',
  'team': 'Toronto Raptors',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/117a-shawn-respert-cyan-3139010'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/117a-shawn-respert-cyan-3139010'],
  'cardNumber': u'#117A',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Stadium Club Printing Plates #117A Shawn Respert Cyan',
@@ -471,8 +425,7 @@ None
  'setName': u'Stadium Club Printing Plates',
  'sport': 'Basketball',
  'team': 'Toronto Raptors',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/117b-shawn-respert-magenta-3139011'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/117b-shawn-respert-magenta-3139011'],
  'cardNumber': u'#117B',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Stadium Club Printing Plates #117B Shawn Respert Magenta',
@@ -481,8 +434,7 @@ None
  'setName': u'Stadium Club Printing Plates',
  'sport': 'Basketball',
  'team': 'Toronto Raptors',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/117c-shawn-respert-yellow-3139012'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/117c-shawn-respert-yellow-3139012'],
  'cardNumber': u'#117C',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Stadium Club Printing Plates #117C Shawn Respert Yellow',
@@ -491,8 +443,7 @@ None
  'setName': u'Stadium Club Printing Plates',
  'sport': 'Basketball',
  'team': 'Toronto Raptors',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/176-carlos-rogers-black-3139245'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/176-carlos-rogers-black-3139245'],
  'cardNumber': u'#176',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Stadium Club Printing Plates #176 Carlos Rogers Black',
@@ -501,8 +452,7 @@ None
  'setName': u'Stadium Club Printing Plates',
  'sport': 'Basketball',
  'team': 'Toronto Raptors',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/176a-carlos-rogers-cyan-3139246'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/176a-carlos-rogers-cyan-3139246'],
  'cardNumber': u'#176A',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Stadium Club Printing Plates #176A Carlos Rogers Cyan',
@@ -511,8 +461,7 @@ None
  'setName': u'Stadium Club Printing Plates',
  'sport': 'Basketball',
  'team': 'Toronto Raptors',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/176b-carlos-rogers-magenta-3139247'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/176b-carlos-rogers-magenta-3139247'],
  'cardNumber': u'#176B',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Stadium Club Printing Plates #176B Carlos Rogers Magenta',
@@ -521,8 +470,7 @@ None
  'setName': u'Stadium Club Printing Plates',
  'sport': 'Basketball',
  'team': 'Toronto Raptors',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/176c-carlos-rogers-yellow-3139248'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/176c-carlos-rogers-yellow-3139248'],
  'cardNumber': u'#176C',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Stadium Club Printing Plates #176C Carlos Rogers Yellow',
@@ -531,8 +479,7 @@ None
  'setName': u'Stadium Club Printing Plates',
  'sport': 'Basketball',
  'team': 'Toronto Raptors',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/177-marcus-camby-black-3139249'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/177-marcus-camby-black-3139249'],
  'cardNumber': u'#177',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Stadium Club Printing Plates #177 Marcus Camby Black',
@@ -541,8 +488,7 @@ None
  'setName': u'Stadium Club Printing Plates',
  'sport': 'Basketball',
  'team': 'Toronto Raptors',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/177a-marcus-camby-cyan-3139250'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/177a-marcus-camby-cyan-3139250'],
  'cardNumber': u'#177A',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Stadium Club Printing Plates #177A Marcus Camby Cyan',
@@ -551,8 +497,7 @@ None
  'setName': u'Stadium Club Printing Plates',
  'sport': 'Basketball',
  'team': 'Toronto Raptors',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/177b-marcus-camby-magenta-3139251'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/177b-marcus-camby-magenta-3139251'],
  'cardNumber': u'#177B',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Stadium Club Printing Plates #177B Marcus Camby Magenta',
@@ -561,8 +506,7 @@ None
  'setName': u'Stadium Club Printing Plates',
  'sport': 'Basketball',
  'team': 'Toronto Raptors',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/177c-marcus-camby-yellow-3139252'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/177c-marcus-camby-yellow-3139252'],
  'cardNumber': u'#177C',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Stadium Club Printing Plates #177C Marcus Camby Yellow',
@@ -571,8 +515,7 @@ None
  'setName': u'Stadium Club Printing Plates',
  'sport': 'Basketball',
  'team': 'Toronto Raptors',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/217-tracy-mcgrady-black-3139409'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/217-tracy-mcgrady-black-3139409'],
  'cardNumber': u'#217',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Stadium Club Printing Plates #217 Tracy McGrady Black',
@@ -581,8 +524,7 @@ None
  'setName': u'Stadium Club Printing Plates',
  'sport': 'Basketball',
  'team': 'Toronto Raptors',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/217a-tracy-mcgrady-cyan-3139410'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/217a-tracy-mcgrady-cyan-3139410'],
  'cardNumber': u'#217A',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Stadium Club Printing Plates #217A Tracy McGrady Cyan',
@@ -591,8 +533,7 @@ None
  'setName': u'Stadium Club Printing Plates',
  'sport': 'Basketball',
  'team': 'Toronto Raptors',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/217b-tracy-mcgrady-magenta-3139411'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/217b-tracy-mcgrady-magenta-3139411'],
  'cardNumber': u'#217B',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Stadium Club Printing Plates #217B Tracy McGrady Magenta',
@@ -601,8 +542,7 @@ None
  'setName': u'Stadium Club Printing Plates',
  'sport': 'Basketball',
  'team': 'Toronto Raptors',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/217c-tracy-mcgrady-yellow-3139412'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/stadium-club-printing-plates/217c-tracy-mcgrady-yellow-3139412'],
  'cardNumber': u'#217C',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Stadium Club Printing Plates #217C Tracy McGrady Yellow',
@@ -611,8 +551,7 @@ None
  'setName': u'Stadium Club Printing Plates',
  'sport': 'Basketball',
  'team': 'Toronto Raptors',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/ultra-masterpieces/65-marcus-camby-3135795'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/ultra-masterpieces/65-marcus-camby-3135795'],
  'cardNumber': u'#65',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Ultra Masterpieces #65 Marcus Camby',
@@ -621,8 +560,7 @@ None
  'setName': u'Ultra Masterpieces',
  'sport': 'Basketball',
  'team': 'Toronto Raptors',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/ultra-masterpieces/138-tracy-mcgrady-3135868'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/ultra-masterpieces/138-tracy-mcgrady-3135868'],
  'cardNumber': u'#138',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Ultra Masterpieces #138 Tracy McGrady',
@@ -631,8 +569,7 @@ None
  'setName': u'Ultra Masterpieces',
  'sport': 'Basketball',
  'team': 'Toronto Raptors',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/ultra-masterpieces/247-zan-tabak-3135975'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/ultra-masterpieces/247-zan-tabak-3135975'],
  'cardNumber': u'#247',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Ultra Masterpieces #247 Zan Tabak',
@@ -641,8 +578,7 @@ None
  'setName': u'Ultra Masterpieces',
  'sport': 'Basketball',
  'team': 'Toronto Raptors',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/ultra-masterpieces/253-marcus-camby-gre-3135981'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/ultra-masterpieces/253-marcus-camby-gre-3135981'],
  'cardNumber': u'#253',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Ultra Masterpieces #253 Marcus Camby GRE',
@@ -652,8 +588,7 @@ None
  'sport': 'Basketball',
  'subsetName': u'GRE',
  'team': 'Toronto Raptors',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/ultra-platinum-medallion/65-marcus-camby-3136079'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/ultra-platinum-medallion/65-marcus-camby-3136079'],
  'cardNumber': u'#65',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Ultra Platinum Medallion #65 Marcus Camby',
@@ -662,8 +597,7 @@ None
  'setName': u'Ultra Platinum Medallion',
  'sport': 'Basketball',
  'team': 'Toronto Raptors',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/ultra-platinum-medallion/138-tracy-mcgrady-3136152'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/ultra-platinum-medallion/138-tracy-mcgrady-3136152'],
  'cardNumber': u'#138',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Ultra Platinum Medallion #138 Tracy McGrady',
@@ -672,8 +606,7 @@ None
  'setName': u'Ultra Platinum Medallion',
  'sport': 'Basketball',
  'team': 'Toronto Raptors',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/ultra-platinum-medallion/247-zan-tabak-3136259'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/ultra-platinum-medallion/247-zan-tabak-3136259'],
  'cardNumber': u'#247',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Ultra Platinum Medallion #247 Zan Tabak',
@@ -682,8 +615,7 @@ None
  'setName': u'Ultra Platinum Medallion',
  'sport': 'Basketball',
  'team': 'Toronto Raptors',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/ultra-platinum-medallion/253-marcus-camby-gre-3136265'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/ultra-platinum-medallion/253-marcus-camby-gre-3136265'],
  'cardNumber': u'#253',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Ultra Platinum Medallion #253 Marcus Camby GRE',
@@ -693,8 +625,7 @@ None
  'sport': 'Basketball',
  'subsetName': u'GRE',
  'team': 'Toronto Raptors',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/z-force-rave/28-doug-christie-3133052'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/z-force-rave/28-doug-christie-3133052'],
  'cardNumber': u'#28',
  'imageLink': [u'http://img.beckett.com/images/items_stock/185226/3133012/3133052/front.jpg'],
  'originalItemDescription': u'1997-98 Z-Force Rave #28 Doug Christie',
@@ -703,8 +634,7 @@ None
  'setName': u'Z-Force Rave',
  'sport': 'Basketball',
  'team': 'Toronto Raptors',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/z-force-rave/43-popeye-jones-3133067'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/z-force-rave/43-popeye-jones-3133067'],
  'cardNumber': u'#43',
  'imageLink': [u'http://img.beckett.com/images/items_stock/185226/3133012/3133067/front.jpg'],
  'originalItemDescription': u'1997-98 Z-Force Rave #43 Popeye Jones',
@@ -713,8 +643,7 @@ None
  'setName': u'Z-Force Rave',
  'sport': 'Basketball',
  'team': 'Toronto Raptors',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/z-force-rave/107-marcus-camby-3133131'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/z-force-rave/107-marcus-camby-3133131'],
  'cardNumber': u'#107',
  'imageLink': [u'http://img.beckett.com/images/items_stock/185226/3133012/3133131/front.jpg'],
  'originalItemDescription': u'1997-98 Z-Force Rave #107 Marcus Camby',
@@ -723,8 +652,7 @@ None
  'setName': u'Z-Force Rave',
  'sport': 'Basketball',
  'team': 'Toronto Raptors',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/z-force-rave/172b-tracy-mcgrady-3133195'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/z-force-rave/172b-tracy-mcgrady-3133195'],
  'cardNumber': u'#172B',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Z-Force Rave #172B Tracy McGrady',
@@ -733,8 +661,7 @@ None
  'setName': u'Z-Force Rave',
  'sport': 'Basketball',
  'team': 'Toronto Raptors',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/z-force-rave/205-marcus-camby-zup-3133228'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/z-force-rave/205-marcus-camby-zup-3133228'],
  'cardNumber': u'#205',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Z-Force Rave #205 Marcus Camby ZUP',
@@ -744,8 +671,7 @@ None
  'sport': 'Basketball',
  'subsetName': u'ZUP',
  'team': 'Toronto Raptors',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/z-force-super-rave/172b-tracy-mcgrady-3133307'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/z-force-super-rave/172b-tracy-mcgrady-3133307'],
  'cardNumber': u'#172B',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Z-Force Super Rave #172B Tracy McGrady',
@@ -754,8 +680,7 @@ None
  'setName': u'Z-Force Super Rave',
  'sport': 'Basketball',
  'team': 'Toronto Raptors',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/z-force-super-rave/205-marcus-camby-zup-3133340'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/z-force-super-rave/205-marcus-camby-zup-3133340'],
  'cardNumber': u'#205',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Z-Force Super Rave #205 Marcus Camby ZUP',
@@ -765,8 +690,7 @@ None
  'sport': 'Basketball',
  'subsetName': u'ZUP',
  'team': 'Toronto Raptors',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/upper-deck-high-dimensions/d3-marcus-camby-3132425'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/upper-deck-high-dimensions/d3-marcus-camby-3132425'],
  'cardNumber': u'#D3',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Upper Deck High Dimensions #D3 Marcus Camby',
@@ -775,8 +699,7 @@ None
  'setName': u'Upper Deck High Dimensions',
  'sport': 'Basketball',
  'team': 'Toronto Raptors',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/hoops-high-voltage-500/hv7-marcus-camby-3142296'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/hoops-high-voltage-500/hv7-marcus-camby-3142296'],
  'cardNumber': u'#HV7',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Hoops High Voltage 500 #HV7 Marcus Camby',
@@ -785,8 +708,7 @@ None
  'setName': u'Hoops High Voltage 500',
  'sport': 'Basketball',
  'team': 'Toronto Raptors',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/metal-universe-precious-metal-gems-emerald/42-tracy-mcgrady-7055491'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/metal-universe-precious-metal-gems-emerald/42-tracy-mcgrady-7055491'],
  'cardNumber': u'#42',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Metal Universe Precious Metal Gems Emerald #42 Tracy McGrady',
@@ -795,8 +717,7 @@ None
  'setName': u'Metal Universe Precious Metal Gems Emerald',
  'sport': 'Basketball',
  'team': 'Toronto Raptors',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/metal-universe-precious-metal-gems-emerald/84-marcus-camby-7055533'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/metal-universe-precious-metal-gems-emerald/84-marcus-camby-7055533'],
  'cardNumber': u'#84',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Metal Universe Precious Metal Gems Emerald #84 Marcus Camby',
@@ -805,8 +726,7 @@ None
  'setName': u'Metal Universe Precious Metal Gems Emerald',
  'sport': 'Basketball',
  'team': 'Toronto Raptors',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/sp-authentic-profiles-3/p19-marcus-camby-3140300'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/sp-authentic-profiles-3/p19-marcus-camby-3140300'],
  'cardNumber': u'#P19',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 SP Authentic Profiles 3 #P19 Marcus Camby',
@@ -815,8 +735,7 @@ None
  'setName': u'SP Authentic Profiles 3',
  'sport': 'Basketball',
  'team': 'Toronto Raptors',
- 'year': u'1997-98'}
-{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/upper-deck-diamond-dimensions/d3-marcus-camby-3132463'],
+ 'year': u'1997-98'}{'beckettLink': [u'http://www.beckett.com/basketball/1997-98/upper-deck-diamond-dimensions/d3-marcus-camby-3132463'],
  'cardNumber': u'#D3',
  'imageLink': [u'http://img.beckett.com/images/no-image.jpg'],
  'originalItemDescription': u'1997-98 Upper Deck Diamond Dimensions #D3 Marcus Camby',

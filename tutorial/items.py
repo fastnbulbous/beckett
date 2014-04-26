@@ -23,10 +23,3 @@ class BeckettItem(Item):
     originalItemDescription = Field()
     sport = Field()
     team = Field()
-
-def __repr__(self):
-    return self.__str__()
-
-def __str__(self):
-    stringList = ("Set Name:", str(self.setName), " Link:", self.link, " Description:", self.description, " Serial Number:", self.serialNumber, "\n")
-    return str("".join(stringList))

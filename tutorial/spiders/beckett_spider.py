@@ -1,6 +1,8 @@
 __author__ = 'Tom'
 
-import re
+import re #regex searches
+import pickle #for serilisation
+import json # for dumps
 from scrapy.spider import Spider
 from scrapy.selector import Selector
 from scrapy.selector import HtmlXPathSelector
@@ -29,8 +31,8 @@ class BeckettSpider(Spider):
     teamName = "None"
     sportID = inverseSportIDs.get(sportName)
 
-    startYear = 1995
-    endYear = 1999
+    startYear = 1996
+    endYear = 1998
 
     for year in range(startYear, endYear):
         for team in basketBallTeamIDs.iterkeys():
@@ -50,16 +52,17 @@ class BeckettSpider(Spider):
     def parse(self, response):
 
         filename = self.determineFileName(response.url)
-
-        print "Writing out search: " + response.url + " to file: "+filename
-
         fileoutput = open(filename, 'w')
+
+        becketItems = []
 
         selector = Selector(response)
         tableRows = selector.xpath("//table[@id='faceted']//tr")
 
         logging.info("Starting new parse\n")
         logging.info("URL search: " + response.url)
+
+        fileid =1;
 
         for tableRow in tableRows:
             logging.info("Parsing Row")
@@ -144,6 +147,14 @@ class BeckettSpider(Spider):
                  # the serial number is not a number and is empty. mark this item for inverstigation
                 logging.warn("There is no serial number listed for this item: "+originalItemDescription)
 
-            fileoutput.write(str(item)+"\n")
+            fileoutput.write(str(item))
+            becketItems.append(item)
+            fileid +=1
+
+        pickleFile = filename+".pickle"
+        pickleOutput = open(pickleFile, 'wb')
+        pickle.dump(becketItems, pickleOutput)
+        pickleOutput.close()
 
         fileoutput.close()
+        return becketItems
