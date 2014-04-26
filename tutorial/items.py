@@ -21,6 +21,8 @@ class BeckettItem(Item):
     memorabilia = Field()
     rookieCard = Field()
     originalItemDescription = Field()
+    sport = Field()
+    team = Field()
 
 def __repr__(self):
     return self.__str__()

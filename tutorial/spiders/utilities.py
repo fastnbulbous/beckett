@@ -1,10 +1,35 @@
 __author__ = 'Tom'
 
-def getSearchUrl(teamId, year):
+import re
+from beckett_teams import getTeamNameFromID
+
+#generate a search url for a team and particular year. We do this to divide up the searches to better insure we have less than 10000 hits
+#beckett seems to cap results at 10000. we also hard search for only the serial card attribute, we don't care about other stuff which can't be used to identify individual cards
+def generateSearchUrl(teamId, year, sport):
     serialAttribute = '24470'# serial card attributes
     numberOfRows = '10000' #want 10000 the max search results for beckett
-    formattedUrl = "http://www.beckett.com/search/?year_start={year}&attr={attribute}&team={team}&rowNum={numberOfRows}".format(year=year, attribute=serialAttribute, team=teamId, numberOfRows=numberOfRows)
+    formattedUrl = "http://www.beckett.com/search/?year_start={year}&attr={attribute}&team={team}&sport={sport}&rowNum={numberOfRows}".format(year=year, attribute=serialAttribute, team=teamId, sport=sport, numberOfRows=numberOfRows)
     return formattedUrl
+
+def getSearchItemFromURL(theUrl, attribute):
+    regEx = re.compile(r''+attribute+"=(.*?)&")
+    found = regEx.search(theUrl)
+
+    if found:
+        #we found an occurance, we need to trim the ampersand adn the attirbute search value before continuing
+        foundString = found.group()
+        foundString = foundString.replace(attribute+"=", "").strip()
+        foundString = foundString.replace("&", "").strip()
+        return foundString
+    else:
+        return ""
+
+def getYearInURL(theUrl):
+    return getSearchItemFromURL(theUrl, "year_start")
+
+def getTeamInURL(theUrl):
+    teamID = getSearchItemFromURL(theUrl, "team")
+    return getTeamNameFromID(teamID)
 
 def hasHigherProportionOfLowerCaseCharacters(inputString):
 

@@ -1,0 +1,50 @@
+344614 Boston Celtics  
+344618 Chicago Bulls  
+344641 New Jersey Nets  
+344668 Los Angeles Lakers  
+344646 Philadelphia 76ers  
+344671 Toronto Raptors  
+344664 Utah Jazz  
+344643 New York Knicks  
+344626 Detroit Pistons  
+344612 Atlanta Hawks  
+344670 Memphis Grizzlies  
+344673 New Orleans Hornets  
+344650 Portland Trail Blazers  
+370514 Charlotte Bobcats  
+344630 Houston Rockets  
+344640 Minnesota Timberwolves  
+344652 San Antonio Spurs  
+344637 Miami Heat  
+344621 Cleveland Cavaliers  
+344638 Milwaukee Bucks  
+344629 Golden State Warriors  
+344645 Orlando Magic  
+344623 Dallas Mavericks  
+344648 Phoenix Suns  
+344672 Los Angeles Clippers  
+344658 Seattle Supersonics  
+344631 Indiana Pacers  
+344624 Denver Nuggets  
+344651 Sacramento Kings  
+344667 Washington Wizards  
+344666 Washington Bullets  
+344642 New Orleans Jazz  
+447339 Connecticut Sun  
+370834 Chicago White Sox  
+447337 Charlotte Sting  
+447341 Houston Comets  
+447349 Seattle Storm  
+447348 Sacramento Monarchs  
+447347 Phoenix Mercury  
+447343 Los Angeles Sparks  
+447344 Minnesota Lynx  
+447351 San Antonio Silver Stars  
+447338 Chicago Sky  
+447350 Washington Mystics  
+447342 Indiana Fever  
+447346 New York Liberty  
+370847 New York Yankees  
+447340 Detroit Shock  
+370835 Cincinnati Reds  
+344615 Buffalo Braves  

@@ -7,22 +7,51 @@ from scrapy.selector import HtmlXPathSelector
 from tutorial.items import BeckettItem
 from scrapy.item import Item, Field
 
-from utilities import getSearchUrl
+from utilities import generateSearchUrl, getTeamInURL, getYearInURL
 from beckett_parser import parseBeckettTableRow
+from beckett_teams import basketBallTeamIDs, allTeamIDs, sportIDs, inverseSportIDs
+
+import os
+import datetime
 
 import logging
-logging.basicConfig(filename='beckett.log',level=logging.INFO)
+logging.basicConfig(filename='beckett.log',level=logging.WARN)
 
 class BeckettSpider(Spider):
     name = "beckett"
     allowed_domains = ["www.beckett.com"]
     start_urls = [
-        "http://www.beckett.com/search/?sport=185226&rowNum=20&tmm=extended&term=sprewell&attr=24470"
+        #"http://www.beckett.com/search/?year_start=1997&attr=24470&team=344618&sport=185226&rowNum=10000"
         #"http://www.dmoz.org/Computers/Programming/Languages/Python/Resources/"
     ]
 
+    sportName = "Basketball"
+    teamName = "None"
+    sportID = inverseSportIDs.get(sportName)
+
+    startYear = 1995
+    endYear = 1999
+
+    for year in range(startYear, endYear):
+        for team in basketBallTeamIDs.iterkeys():
+            start_urls.append(generateSearchUrl(team, year, sportID))
+
+    def determineFileName(self, inUrl):
+        year=getYearInURL(inUrl)
+        self.teamName = getTeamInURL(inUrl)
+
+        directory = os.path.join(os.getcwd(), self.sportName, year);
+
+        if not os.path.exists(directory):
+                os.makedirs(directory)
+
+        return  str(os.path.join(directory, self.teamName+".beckett"))
+
     def parse(self, response):
-        filename = response.url.split("/")[-2]
+
+        filename = self.determineFileName(response.url)
+
+        print "Writing out search: " + response.url + " to file: "+filename
 
         fileoutput = open(filename, 'w')
 
@@ -49,6 +78,16 @@ class BeckettSpider(Spider):
 
             item = parseBeckettTableRow(itemDescription, logging)
 
+            try:
+                item['sport'] = str(self.sportName)
+            except:
+                logging.warn("Could not determine sport name")
+
+            try:
+                item['team'] = str(self.teamName)
+            except:
+                logging.warn("Could not determine team name")
+
             """Now seeing if there are any attributes for memorbilia, autograph, serial number or rookie card in the same column
                 these are done as special divs inside the same column in the element above"""
 
@@ -73,7 +112,6 @@ class BeckettSpider(Spider):
 
             """Try getting the becket info link and web image"""
 
-            print "Getting image links"
             #gets image links for each card. all of the, have a width of 50
             # './td/img[@width="50"]/@src' worked but without width it also seems to work fine
             imageLink = tableRow.xpath('./td/img/@src').extract()
@@ -84,7 +122,6 @@ class BeckettSpider(Spider):
                 # couldn't determine image link
                 logging.warn("There is no image link for: "+originalItemDescription)
 
-            print "Getting href links"
             #this link is not specifically marked up well, other than the name, year and sport match
             # more simply we just make sure we don't get a href link pointing to the login for the
             # beckett price guide. This leaves us with the real card info link
