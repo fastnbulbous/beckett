@@ -1,5 +1,6 @@
 import unittest
 import logging
+logging.basicConfig(filename='beckett.log',level=logging.INFO)
 #log to stdout
 #logging.basicConfig(level=logging.DEBUG)
 

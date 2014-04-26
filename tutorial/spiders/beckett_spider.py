@@ -7,6 +7,7 @@ from scrapy.selector import HtmlXPathSelector
 from tutorial.items import BeckettItem
 from scrapy.item import Item, Field
 
+from utilities import getSearchUrl
 from beckett_parser import parseBeckettTableRow
 
 import logging

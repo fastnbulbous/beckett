@@ -1,5 +1,11 @@
 __author__ = 'Tom'
 
+def getSearchUrl(teamId, year):
+    serialAttribute = '24470'# serial card attributes
+    numberOfRows = '10000' #want 10000 the max search results for beckett
+    formattedUrl = "http://www.beckett.com/search/?year_start={year}&attr={attribute}&team={team}&rowNum={numberOfRows}".format(year=year, attribute=serialAttribute, team=teamId, numberOfRows=numberOfRows)
+    return formattedUrl
+
 def hasHigherProportionOfLowerCaseCharacters(inputString):
 
     if len(inputString) < 1:
