@@ -4,11 +4,17 @@ logging.basicConfig(filename='beckett.log',level=logging.INFO)
 #log to stdout
 #logging.basicConfig(level=logging.DEBUG)
 
-from beckett_parser import parseBeckettTableRow
+from beckett_parser import parseBeckettTableRow, probablyGoodPlayersNames, processFullPlayerNames
 from utilities import hasHigherProportionOfLowerCaseCharacters, isProbablyAName, hasNumbersInString
 from tutorial.items import BeckettItem
 
 class BeckettParserTests(unittest.TestCase):
+
+    def setUp(self):
+        probablyGoodPlayersNames = [] # clear this list so it doesn't interfere with other tests
+
+    def tearDown(self):
+        del probablyGoodPlayersNames[:]
 
     def assertNoErrorInformation(self, item):
         try:
@@ -49,7 +55,17 @@ class BeckettParserTests(unittest.TestCase):
         return item
 
     def test_parser_printing_plates(self):
-        expectedPlayerNames = ["David Wesley Black"]
+        expectedPlayerNames = ["David Wesley Black"] # we don't have any probable good player names yet, so this will just take what it has current knowledge on
+
+        item = self.assertExpectedValues("1997-98 Stadium Club Printing Plates #204 David Wesley TRAN Black", "1997-98", "Stadium Club Printing Plates", "#204", expectedPlayerNames)
+
+        self.assertNoErrorInformation(item)
+        self.assertNoSubsetName(item)
+
+    def test_parser_printing_plates_with_fuzzy_logic_removing_crap(self):
+        expectedPlayerNames = ["David Wesley"]
+
+        probablyGoodPlayersNames.append("David Wesley") # if we already have a good entry for this player, we shouldn't get other crap
 
         item = self.assertExpectedValues("1997-98 Stadium Club Printing Plates #204 David Wesley TRAN Black", "1997-98", "Stadium Club Printing Plates", "#204", expectedPlayerNames)
 
@@ -102,8 +118,24 @@ class BeckettParserTests(unittest.TestCase):
         self.assertNoSubsetName(item)
         self.assertNoErrorInformation(item)
 
+    def assertNameWasFoundAsAFuzzyMatch(self, expectedName, testNames):
+        probablyGoodPlayersNames.append(expectedName)
+        returnedNames = processFullPlayerNames(testNames)
+        self.assertEqual(expectedName, returnedNames , "Expected Name: " + expectedName +" - did not match the returned names:" + returnedNames + "- for the test names we passed in " + "".join(testNames))
 
+    def test_guess_spelling_for_Mutombo(self):
+        testNames = [['Dikemb2e ', 'Mutumbo '], ['Dikembe ', 'Mutumbo ', 'Cyan '], ['Dikimbe ', 'Mutumbo ']]
+        for testName in testNames:
+            self.assertNameWasFoundAsAFuzzyMatch("Dikembe Mutombo", testName)
 
+    def test_guess_spelling_for_hardaways(self):
+        testNames = [['Tim ', 'Hardaway ', 'Jsy'], ['Tim ', 'Hardaway ', 'Black']]
+        for testName in testNames:
+            self.assertNameWasFoundAsAFuzzyMatch("Tim Hardaway Jr", testName)
+
+        testNames = [['Tim ', 'Hardaway ', 'RC'], ['Tim ', 'Hardaway ', 'Black ']]
+        for testName in testNames:
+            self.assertNameWasFoundAsAFuzzyMatch("Tim Hardaway", testName)
 
 suite = unittest.TestLoader().loadTestsFromTestCase(BeckettParserTests)
 unittest.TextTestRunner(verbosity=2).run(suite)

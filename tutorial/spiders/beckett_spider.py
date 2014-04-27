@@ -31,8 +31,8 @@ class BeckettSpider(Spider):
     teamName = "None"
     sportID = inverseSportIDs.get(sportName)
 
-    startYear = 1990
-    endYear = 2004
+    startYear = 1996
+    endYear = 2000
 
     for year in range(startYear, endYear):
         for team in basketBallTeamIDs.iterkeys():

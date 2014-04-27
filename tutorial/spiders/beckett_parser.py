@@ -5,6 +5,55 @@ from utilities import hasHigherProportionOfLowerCaseCharacters, isProbablyAName,
 from tutorial.items import BeckettItem
 import logging
 import re
+from difflib import get_close_matches# for fuzzy logic matching
+
+probablyGoodPlayersNames = []
+
+def processFullPlayerNames(fullName):
+
+    processedPlayerName = ""
+    lengthOfName = len(fullName)
+    unprocessedName = ''.join(fullName).strip()
+
+    closeMatch = []
+
+    if unprocessedName in probablyGoodPlayersNames:
+        logging.info("matched name directly: " + unprocessedName)
+        return unprocessedName
+
+    processedPlayerName = ''.join(fullName).strip()
+    closeMatch = get_close_matches(processedPlayerName, probablyGoodPlayersNames, 1, 0.9) # this check is a bit more strict for matching a nmae outright
+    if len(closeMatch) == lengthOfName:
+        logging.warn("matched whole name adequetely " + ''.join(closeMatch))
+
+    elif lengthOfName > 0:
+        startIndex = 0
+        offset = 1
+
+        logging.info("Starting name check")
+
+        while startIndex is not lengthOfName and len(closeMatch) < 1:
+            nameToCheck = fullName[startIndex:startIndex+offset]
+            logging.info("Checking name: " + ''.join(nameToCheck))
+
+            closeMatch = get_close_matches(''.join(nameToCheck), probablyGoodPlayersNames, 1, 0.8)
+            if len(closeMatch) < 1:
+                logging.info("not found updating offset")
+                offset += 1
+                if startIndex + offset > lengthOfName:
+                    logging.info("still not found moving start index")
+                    startIndex += 1
+                    offset = 1
+            else:
+                logging.warn("Fuzzy logic found a match as: " + ''.join(closeMatch) +" - for original names " +''.join(fullName))
+
+    if len(closeMatch) > 0:
+        return ''.join(closeMatch).strip()
+    else:
+        logging.info("Couldn't find a match for name leaving unprocessed " + unprocessedName)
+        probablyGoodPlayersNames.append(processedPlayerName)
+        return unprocessedName
+
 
 def removeAbbreviations(itemDescription, abbreviation, logging) :
 
@@ -114,19 +163,19 @@ def parseBeckettTableRow(itemDescription, logging):
 
     if not hasHigherProportionOfLowerCaseCharacters(subsetName):
         # if the subset is not a title it means there is more than one capital
-        if(subsetName > 1):
+        if(len(subsetName) > 1):
             # the subset should be at least 2 letters
             item['subsetName'] = subsetName
-            itemDescription = itemDescription.replace(subsetName, "").strip()
+            if(itemDescription.count(subsetName) == 1): # only replace the subset if it turns up once in the string
+                itemDescription = itemDescription.replace(subsetName, "").strip()
         else:
             logging.warn("We had a subset of only 1 letter for a subset title, seems dodgy")
 
     """ Now we take a best guess of player names by splitting the remaining string with the /
     character and then checking if the name doesn't have numbers in it"""
 
-    playersNames = []
-
     playerNameList = itemDescription.split('/');
+    processedPlayersNames = []
 
     for playerName in playerNameList:
         potentialNames = playerName.split() #now split each potential name in white space
@@ -140,13 +189,10 @@ def parseBeckettTableRow(itemDescription, logging):
                 logging.warn("Disregarding name: " + name)
 
         if len(fullName) > 0:
-            logging.info("Full player name: " + ''.join(fullName).strip());
-            playersNames.append(''.join(fullName).strip())
-            if len(fullName) > 3:
-                logging.warn("This player has more than 3 names, something to check")
-        else:
-            logging.info("Ignored complete name sequence " + ''.join(fullName).strip())
+            fullPlayerName = processFullPlayerNames(fullName)
+            logging.info("Full player name: " + fullPlayerName);
+            processedPlayersNames.append(fullPlayerName)
 
-    item['playerNames'] = playersNames
+    item['playerNames'] = processedPlayersNames
 
     return item;
