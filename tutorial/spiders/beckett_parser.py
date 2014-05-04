@@ -1,13 +1,35 @@
 __author__ = 'Tom'
 
 #import all from utilities module
-from utilities import hasHigherProportionOfLowerCaseCharacters, isProbablyAName, hasNumbersInString
+from utilities import hasHigherProportionOfLowerCaseCharacters, isProbablyAName, hasNumbersInString, levenshtein
 from tutorial.items import BeckettItem
 import logging
+
+
 import re
 from difflib import get_close_matches# for fuzzy logic matching
 
-probablyGoodPlayersNames = []
+probablyGoodPlayersNames = \
+    ['Glen Rice Jr.',
+     'Glen Rice',
+     'Tim Hardaway',
+     'Tim Hardaway Jr.']
+
+def getProbableMatch(playerName):
+
+    cutoffMatch = 3
+
+    closeMatch = get_close_matches(playerName, probablyGoodPlayersNames, 10, 0.85)
+
+    bestMatch = []
+
+    for match in closeMatch:
+        score = levenshtein(match, playerName)
+        if score < cutoffMatch:
+            cutoffMatch = score
+            bestMatch = match
+
+    return bestMatch
 
 def processFullPlayerNames(fullName):
 
@@ -21,14 +43,21 @@ def processFullPlayerNames(fullName):
         logging.info("matched name directly: " + unprocessedName)
         return unprocessedName
 
+    appendJunior = ""
+
+    if fullName.count("Jr.") == 1:
+        fullName.remove("Jr.")
+        appendJunior = " Jr."
+        logging.warn("Processing Jr.")
+
+
     processedPlayerName = ''.join(fullName).strip()
-    closeMatch = get_close_matches(processedPlayerName, probablyGoodPlayersNames, 1, 0.9) # this check is a bit more strict for matching a nmae outright
+    closeMatch = getProbableMatch(processedPlayerName) # this check is a bit more strict for matching a nmae outright
     if len(closeMatch) == lengthOfName:
         logging.warn("matched whole name adequetely " + ''.join(closeMatch))
-
     elif lengthOfName > 0:
         startIndex = 0
-        offset = 1
+        offset = 2 # always check 2 names, don't fuzzy match an unlikely single name
 
         logging.info("Starting name check")
 
@@ -36,19 +65,19 @@ def processFullPlayerNames(fullName):
             nameToCheck = fullName[startIndex:startIndex+offset]
             logging.info("Checking name: " + ''.join(nameToCheck))
 
-            closeMatch = get_close_matches(''.join(nameToCheck), probablyGoodPlayersNames, 1, 0.8)
+            closeMatch = getProbableMatch(''.join(nameToCheck))
             if len(closeMatch) < 1:
                 logging.info("not found updating offset")
                 offset += 1
                 if startIndex + offset > lengthOfName:
                     logging.info("still not found moving start index")
                     startIndex += 1
-                    offset = 1
+                    offset = 2# always check 2 names, don't fuzzy match an unlikely single name
             else:
                 logging.warn("Fuzzy logic found a match as: " + ''.join(closeMatch) +" - for original names " +''.join(fullName))
 
     if len(closeMatch) > 0:
-        return ''.join(closeMatch).strip()
+        return ''.join(closeMatch).strip() + appendJunior
     else:
         logging.info("Couldn't find a match for name leaving unprocessed " + unprocessedName)
         probablyGoodPlayersNames.append(processedPlayerName)
@@ -88,7 +117,7 @@ def parseBeckettTableRow(itemDescription, logging):
     if year:
         year = year.group()
         logging.info("Extracted year: " + year);
-        item['year'] = year
+        item['year'] = str(year)
     else:
         logging.error("We could not determine the year for the item:"+itemDescription)
         return #continue the for loop of elements as this is not enough info to pass
@@ -107,7 +136,7 @@ def parseBeckettTableRow(itemDescription, logging):
         else:
             #the setname is the first part of the string, without the hash #
             setName = itemDescription[0:hashIndexPosition].strip()
-            item['setName'] = setName
+            item['setName'] = str(setName)
             itemDescription = itemDescription.replace(str(setName), "").strip()
             logging.info("Extracted setname: " + setName);
             logging.info("Removed set name from description: " + itemDescription);
@@ -120,7 +149,7 @@ def parseBeckettTableRow(itemDescription, logging):
     if cardNumber:
         cardNumber = cardNumber.group()
         logging.info("Extracted card number:" + cardNumber);
-        item['cardNumber'] = cardNumber
+        item['cardNumber'] = str(cardNumber)
     else:
         logging.error("We could not find a card number for this item: "+itemDescription)
         return #continue the for loop of elements as this is not enough info to pass
@@ -186,7 +215,7 @@ def parseBeckettTableRow(itemDescription, logging):
                 fullName.append(name+" ")
                 logging.info("Appending name: " + name);
             else:
-                logging.warn("Disregarding name: " + name)
+                logging.info("Disregarding name: " + name)
 
         if len(fullName) > 0:
             fullPlayerName = processFullPlayerNames(fullName)

@@ -17,7 +17,7 @@ import os
 import datetime
 
 import logging
-logging.basicConfig(filename='beckett.log',level=logging.WARN)
+logging.basicConfig(filename='beckettparser.log', filemode='w', level=logging.WARN)
 
 class BeckettSpider(Spider):
     name = "beckett"
@@ -31,8 +31,8 @@ class BeckettSpider(Spider):
     teamName = "None"
     sportID = inverseSportIDs.get(sportName)
 
-    startYear = 1996
-    endYear = 2000
+    startYear = 1975
+    endYear = 2015
 
     for year in range(startYear, endYear):
         for team in basketBallTeamIDs.iterkeys():
@@ -42,7 +42,7 @@ class BeckettSpider(Spider):
         year=getYearInURL(inUrl)
         self.teamName = getTeamInURL(inUrl)
 
-        directory = os.path.join(os.getcwd(), self.sportName, year);
+        directory = os.path.join('H:\\BeckettScrape', self.sportName, year);
 
         if not os.path.exists(directory):
                 os.makedirs(directory)
@@ -73,13 +73,14 @@ class BeckettSpider(Spider):
             itemDescription = ''.join(tableRow.xpath('./td/a/text()').re(".*#.*"))
 
             #cache the raw item description as we are going to be parsing it and splicing it up
-            originalItemDescription = itemDescription
+            originalItemDescription = str(itemDescription)
+
 
             # This will could look something like
 
             logging.info("Parsing item description: "+originalItemDescription)
 
-            item = parseBeckettTableRow(itemDescription, logging)
+            item = parseBeckettTableRow(originalItemDescription, logging)
 
             try:
                 item['sport'] = str(self.sportName)
@@ -117,10 +118,10 @@ class BeckettSpider(Spider):
 
             #gets image links for each card. all of the, have a width of 50
             # './td/img[@width="50"]/@src' worked but without width it also seems to work fine
-            imageLink = tableRow.xpath('./td/img/@src').extract()
+            imageLink = "".join(tableRow.xpath('./td/img/@src').extract())
 
             try:
-                item['imageLink'] = imageLink
+                item['imageLink'] = str(imageLink)
             except:
                 # couldn't determine image link
                 logging.warn("There is no image link for: "+originalItemDescription)
@@ -128,10 +129,10 @@ class BeckettSpider(Spider):
             #this link is not specifically marked up well, other than the name, year and sport match
             # more simply we just make sure we don't get a href link pointing to the login for the
             # beckett price guide. This leaves us with the real card info link
-            beckettLink =  tableRow.xpath('./td/a[not(contains(@href, "login"))]/@href').extract()
+            beckettLink =  "".join(tableRow.xpath('./td/a[not(contains(@href, "login"))]/@href').extract())
 
             try:
-                item['beckettLink'] = beckettLink
+                item['beckettLink'] = str(beckettLink)
             except:
                 # couldn't determine image link
                 logging.warn("There is no beckett link for: "+originalItemDescription)

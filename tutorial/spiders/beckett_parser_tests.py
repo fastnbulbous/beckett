@@ -1,8 +1,5 @@
 import unittest
 import logging
-logging.basicConfig(filename='beckett.log',level=logging.INFO)
-#log to stdout
-#logging.basicConfig(level=logging.DEBUG)
 
 from beckett_parser import parseBeckettTableRow, probablyGoodPlayersNames, processFullPlayerNames
 from utilities import hasHigherProportionOfLowerCaseCharacters, isProbablyAName, hasNumbersInString
@@ -11,10 +8,13 @@ from tutorial.items import BeckettItem
 class BeckettParserTests(unittest.TestCase):
 
     def setUp(self):
-        probablyGoodPlayersNames = [] # clear this list so it doesn't interfere with other tests
+        #the logging only seems to understand the configuration i set here!
+        logging.basicConfig(filename='beckettparser.log', filemode='w', level=logging.WARN)
+        #probablyGoodPlayersNames = [] # clear this list so it doesn't interfere with other tests
 
     def tearDown(self):
-        del probablyGoodPlayersNames[:]
+        test = 2
+        #del probablyGoodPlayersNames[:]
 
     def assertNoErrorInformation(self, item):
         try:
@@ -67,7 +67,7 @@ class BeckettParserTests(unittest.TestCase):
 
         probablyGoodPlayersNames.append("David Wesley") # if we already have a good entry for this player, we shouldn't get other crap
 
-        item = self.assertExpectedValues("1997-98 Stadium Club Printing Plates #204 David Wesley TRAN Black", "1997-98", "Stadium Club Printing Plates", "#204", expectedPlayerNames)
+        item = self.assertExpectedValues("1997-98 Stadium Club Printing Plates #204 David Wesley TRAN Cyan", "1997-98", "Stadium Club Printing Plates", "#204", expectedPlayerNames)
 
         self.assertNoErrorInformation(item)
         self.assertNoSubsetName(item)
@@ -129,11 +129,11 @@ class BeckettParserTests(unittest.TestCase):
             self.assertNameWasFoundAsAFuzzyMatch("Dikembe Mutombo", testName)
 
     def test_guess_spelling_for_hardaways(self):
-        testNames = [['Tim ', 'Hardaway ', 'Jsy'], ['Tim ', 'Hardaway ', 'Black']]
+        testNames = [['Tim ', 'Hardaway ', 'Jr. ', 'RC'], ['Tim ', 'Hardaway ', 'Jr.', 'Black']]
         for testName in testNames:
-            self.assertNameWasFoundAsAFuzzyMatch("Tim Hardaway Jr", testName)
+            self.assertNameWasFoundAsAFuzzyMatch("Tim Hardaway Jr.", testName)
 
-        testNames = [['Tim ', 'Hardaway ', 'RC'], ['Tim ', 'Hardaway ', 'Black ']]
+        testNames = [['Tim ', 'Hardaway ', 'jsy'], ['Tim ', 'Hardaway ', 'Black ']]
         for testName in testNames:
             self.assertNameWasFoundAsAFuzzyMatch("Tim Hardaway", testName)
 
