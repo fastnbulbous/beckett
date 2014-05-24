@@ -8,7 +8,7 @@ from scrapy.selector import Selector
 from scrapy.selector import HtmlXPathSelector
 from tutorial.items import BeckettItem
 from scrapy.item import Item, Field
-
+from scrapy import log
 from utilities import generateSearchUrl, getTeamInURL, getYearInURL
 from beckett_parser import parseBeckettTableRow
 from beckett_teams import basketBallTeamIDs, allTeamIDs, sportIDs, inverseSportIDs
@@ -24,15 +24,14 @@ class BeckettSpider(Spider):
     allowed_domains = ["www.beckett.com"]
     start_urls = [
         #"http://www.beckett.com/search/?year_start=1997&attr=24470&team=344618&sport=185226&rowNum=10000"
-        #"http://www.dmoz.org/Computers/Programming/Languages/Python/Resources/"
     ]
 
     sportName = "Basketball"
     teamName = "None"
     sportID = inverseSportIDs.get(sportName)
 
-    startYear = 1975
-    endYear = 2015
+    startYear = 1960
+    endYear = 2018
 
     for year in range(startYear, endYear):
         for team in basketBallTeamIDs.iterkeys():
@@ -61,6 +60,8 @@ class BeckettSpider(Spider):
 
         logging.info("Starting new parse\n")
         logging.info("URL search: " + response.url)
+
+        log.msg("Parsing " + response.url, level=log.INFO, spider=self)
 
         fileid =1;
 

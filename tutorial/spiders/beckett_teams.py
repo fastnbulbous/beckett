@@ -64,6 +64,6 @@ def getTeamNameFromID(teamId):
         if id in values.keys():
             return values.get(id)
             break
-
-    return "Could not find id: " + teamId
+            
+    return "None"
 

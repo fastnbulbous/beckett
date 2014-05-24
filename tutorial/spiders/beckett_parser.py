@@ -16,8 +16,8 @@ probablyGoodPlayersNames = \
      'Tim Hardaway Jr.']
 
 def getProbableMatch(playerName):
-
-    cutoffMatch = 3
+ 
+    cutoffMatch = 3#limit to 3 player names
 
     closeMatch = get_close_matches(playerName, probablyGoodPlayersNames, 10, 0.85)
 

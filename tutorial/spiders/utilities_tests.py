@@ -15,7 +15,7 @@ class UtilitiesTests(unittest.TestCase):
         self.assertEqual("1997", getYearInURL("http://www.beckett.com/search/?year_start=1997&attr=24470&team=345678&rowNum=10000"))
 
     def test_get_team_with_no_existant_team(self):
-        self.assertEqual("Could not find id: 1111345678", getTeamInURL("http://www.beckett.com/search/?year_start=1997&attr=24470&team=1111345678&rowNum=10000"))
+        self.assertEqual("None", getTeamInURL("http://www.beckett.com/search/?year_start=1997&attr=24470&team=1111345678&rowNum=10000"))
 
     def test_get_team_with_existing_team(self):
         self.assertEqual("Chicago Bulls", getTeamInURL("http://www.beckett.com/search/?year_start=1997&attr=24470&team=344618&rowNum=10000"))

@@ -3,7 +3,22 @@ __author__ = 'Tom'
 import re
 from beckett_teams import getTeamNameFromID
 
+#replaces a space delimited
+def sanitiseSearchTerm(searchTearm):
+    searchTerm = searchTerm.trim()
+    splitTearm = searchTerm.split(" ")# delimit with spaces
+    return "+".join(splitTearm)# add + as the delimiter
+
 #generate a search url for a team and particular year. We do this to divide up the searches to better insure we have less than 10000 hits
+#beckett seems to cap results at 10000. we also hard search for only the serial card attribute, we don't care about other stuff which can't be used to identify individual cards
+def generateSetSearchUrl(setName, sport):
+    serialAttribute = '24470'# serial card attributes
+    numberOfRows = '10000' #want 10000 the max search results for beckett
+    setName = sanitiseSearchTerm(setName)
+    formattedUrl = "http://www.beckett.com/search/?term={term}&attr={attribute}&sport={sport}&rowNum={numberOfRows}".format(term=term, attribute=serialAttribute, sport=sport, numberOfRows=numberOfRows)
+    return formattedUrl
+
+#generate a search url for a generic search term. Note: normally should be a set os something specific enough to insure we have less than 10000 hits
 #beckett seems to cap results at 10000. we also hard search for only the serial card attribute, we don't care about other stuff which can't be used to identify individual cards
 def generateSearchUrl(teamId, year, sport):
     serialAttribute = '24470'# serial card attributes
